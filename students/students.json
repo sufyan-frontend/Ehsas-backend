@@ -8,15 +8,5 @@
     "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-001.jpg",
     "course": "website_development",
     "createdAt": "2026-01-10"
-  },
-  {
-    "id": "STU-005",
-    "name": "Bilal Hassan",
-    "fatherName": "Hassan Khan",
-    "phoneNumber": "0304-5678901",
-    "fatherCnic": "35202-5678901-5",
-    "profileImage": "students/images/STU-005.jpg",
-    "course": "website_development",
-    "createdAt": "2026-03-05"
   }
 ]
