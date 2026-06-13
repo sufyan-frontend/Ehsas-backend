@@ -10,16 +10,6 @@
     "createdAt": "2026-01-10"
   },
   {
-    "id": "STU-004",
-    "name": "Fatima Malik",
-    "fatherName": "Malik Riaz",
-    "phoneNumber": "0303-4567890",
-    "fatherCnic": "35202-4567890-4",
-    "profileImage": "students/images/STU-004.jpg",
-    "course": "digital_marketing",
-    "createdAt": "2026-02-10"
-  },
-  {
     "id": "STU-005",
     "name": "Bilal Hassan",
     "fatherName": "Hassan Khan",
