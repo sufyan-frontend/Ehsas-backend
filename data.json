@@ -17,5 +17,14 @@
       "createdAt": "2026-01-10"
     }
   ],
-  "instructors": []
+  "instructors": [
+    {
+      "id": "INS-001",
+      "name": "j",
+      "phoneNumber": "0",
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-001.jpg",
+      "role": "graphic_design",
+      "createdAt": "2026-06-13"
+    }
+  ]
 }
