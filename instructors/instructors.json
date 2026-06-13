@@ -1,0 +1,34 @@
+[
+  {
+    "id": "INS-001",
+    "name": "Asad Iqbal",
+    "phoneNumber": "0311-1111111",
+    "profileImage": "instructors/images/INS-001.jpg",
+    "role": "website_development",
+    "createdAt": "2025-06-01"
+  },
+  {
+    "id": "INS-002",
+    "name": "Kamran Raza",
+    "phoneNumber": "0322-2222222",
+    "profileImage": "instructors/images/INS-002.jpg",
+    "role": "graphic_design",
+    "createdAt": "2025-06-01"
+  },
+  {
+    "id": "INS-003",
+    "name": "Adnan Shah",
+    "phoneNumber": "0333-3333333",
+    "profileImage": "instructors/images/INS-003.jpg",
+    "role": "video_editing",
+    "createdAt": "2025-06-01"
+  },
+  {
+    "id": "INS-004",
+    "name": "Rizwan Ahmed",
+    "phoneNumber": "0344-4444444",
+    "profileImage": "instructors/images/INS-004.jpg",
+    "role": "digital_marketing",
+    "createdAt": "2025-06-01"
+  }
+]
