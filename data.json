@@ -59,14 +59,6 @@
   ],
   "instructors": [
     {
-      "id": "INS-001",
-      "name": "Asad Iqbal",
-      "phoneNumber": "0311-1111111",
-      "profileImage": "instructors/images/INS-001.jpg",
-      "role": "website_development",
-      "createdAt": "2025-06-01"
-    },
-    {
       "id": "INS-004",
       "name": "Rizwan Ahmed",
       "phoneNumber": "0344-4444444",
