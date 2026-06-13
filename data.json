@@ -17,16 +17,6 @@
       "createdAt": "2026-01-10"
     },
     {
-      "id": "STU-002",
-      "name": "Sara Khan",
-      "fatherName": "Khan Muhammad",
-      "phoneNumber": "0301-2345678",
-      "fatherCnic": "35202-2345678-2",
-      "profileImage": "students/images/STU-002.jpg",
-      "course": "graphic_design",
-      "createdAt": "2026-01-15"
-    },
-    {
       "id": "STU-003",
       "name": "Usman Tariq",
       "fatherName": "Tariq Mehmood",
