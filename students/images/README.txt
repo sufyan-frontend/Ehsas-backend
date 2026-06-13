@@ -1,0 +1,1 @@
+Store student profile images here. Name them by student ID e.g. STU-001.jpg
