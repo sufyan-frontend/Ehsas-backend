@@ -1,14 +1,5 @@
 [
   {
-    "id": "INS-001",
-    "name": "Muhamamd sufyan",
-    "phoneNumber": "02335587985",
-    "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-001.jpg",
-    "role": "website_development",
-    "status": "active",
-    "createdAt": "2026-06-13"
-  },
-  {
     "id": "INS-002",
     "username": "muhammad002",
     "pincode": "769494",
