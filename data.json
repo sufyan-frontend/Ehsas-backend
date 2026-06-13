@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 0,
-      "active": 0,
+      "total": 1,
+      "active": 1,
       "inactive": 0
     },
     "instructors": {
@@ -20,7 +20,21 @@
       "total": 1
     }
   },
-  "students": [],
+  "students": [
+    {
+      "id": "STU-001",
+      "username": "muhammad001",
+      "pincode": "397737",
+      "name": "Muhammad Sufyan",
+      "fatherName": "Rayasat Ali",
+      "phoneNumber": "03227479636",
+      "fatherCnic": "3450356798",
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-001.jpg",
+      "course": "website_development",
+      "status": "active",
+      "createdAt": "2026-06-13"
+    }
+  ],
   "instructors": [
     {
       "id": "INS-001",
