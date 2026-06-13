@@ -75,14 +75,6 @@
       "createdAt": "2025-06-01"
     },
     {
-      "id": "INS-003",
-      "name": "Adnan Shah",
-      "phoneNumber": "0333-3333333",
-      "profileImage": "instructors/images/INS-003.jpg",
-      "role": "video_editing",
-      "createdAt": "2025-06-01"
-    },
-    {
       "id": "INS-004",
       "name": "Rizwan Ahmed",
       "phoneNumber": "0344-4444444",
