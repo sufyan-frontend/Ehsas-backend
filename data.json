@@ -57,14 +57,5 @@
       "createdAt": "2026-03-05"
     }
   ],
-  "instructors": [
-    {
-      "id": "INS-004",
-      "name": "Rizwan Ahmed",
-      "phoneNumber": "0344-4444444",
-      "profileImage": "instructors/images/INS-004.jpg",
-      "role": "digital_marketing",
-      "createdAt": "2025-06-01"
-    }
-  ]
+  "instructors": []
 }
