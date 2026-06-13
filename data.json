@@ -67,14 +67,6 @@
       "createdAt": "2025-06-01"
     },
     {
-      "id": "INS-002",
-      "name": "Kamran Raza",
-      "phoneNumber": "0322-2222222",
-      "profileImage": "instructors/images/INS-002.jpg",
-      "role": "graphic_design",
-      "createdAt": "2025-06-01"
-    },
-    {
       "id": "INS-004",
       "name": "Rizwan Ahmed",
       "phoneNumber": "0344-4444444",
