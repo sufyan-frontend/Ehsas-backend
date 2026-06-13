@@ -10,16 +10,6 @@
     "createdAt": "2026-01-10"
   },
   {
-    "id": "STU-003",
-    "name": "Usman Tariq",
-    "fatherName": "Tariq Mehmood",
-    "phoneNumber": "0302-3456789",
-    "fatherCnic": "35202-3456789-3",
-    "profileImage": "students/images/STU-003.jpg",
-    "course": "video_editing",
-    "createdAt": "2026-02-01"
-  },
-  {
     "id": "STU-004",
     "name": "Fatima Malik",
     "fatherName": "Malik Riaz",
