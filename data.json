@@ -12,8 +12,8 @@
       "inactive": 0
     },
     "instructors": {
-      "total": 1,
-      "active": 1,
+      "total": 2,
+      "active": 2,
       "inactive": 0
     },
     "posts": {
@@ -27,6 +27,17 @@
       "name": "Muhamamd sufyan",
       "phoneNumber": "02335587985",
       "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-001.jpg",
+      "role": "website_development",
+      "status": "active",
+      "createdAt": "2026-06-13"
+    },
+    {
+      "id": "INS-002",
+      "username": "muhammad002",
+      "pincode": "769494",
+      "name": "Muhammad Sufyan",
+      "phoneNumber": "0322256895",
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-002.jpg",
       "role": "website_development",
       "status": "active",
       "createdAt": "2026-06-13"
