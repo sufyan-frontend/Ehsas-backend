@@ -12,8 +12,8 @@
       "inactive": 0
     },
     "instructors": {
-      "total": 1,
-      "active": 1,
+      "total": 2,
+      "active": 2,
       "inactive": 0
     },
     "posts": {
@@ -70,6 +70,17 @@
       "phoneNumber": "03227479636",
       "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-001.jpg",
       "role": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-06-13"
+    },
+    {
+      "id": "INS-002",
+      "username": "muhamad002",
+      "pincode": "864568",
+      "name": "Muhamad sufyan",
+      "phoneNumber": "354196709665",
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-002.jpg",
+      "role": "website_development",
       "status": "active",
       "createdAt": "2026-06-13"
     }
