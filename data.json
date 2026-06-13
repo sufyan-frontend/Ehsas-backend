@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 3,
-      "active": 3,
+      "total": 4,
+      "active": 4,
       "inactive": 0
     },
     "instructors": {
@@ -57,6 +57,19 @@
       "fatherCnic": "8455656895",
       "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-003.jpg",
       "course": "website_development",
+      "status": "active",
+      "createdAt": "2026-06-13"
+    },
+    {
+      "id": "STU-004",
+      "username": "hassam004",
+      "pincode": "526298",
+      "name": "Hassam",
+      "fatherName": "Idrees",
+      "phoneNumber": "03214565019",
+      "fatherCnic": "3450131810017",
+      "profileImage": null,
+      "course": "graphic_design",
       "status": "active",
       "createdAt": "2026-06-13"
     }
