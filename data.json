@@ -8,8 +8,8 @@
   "stats": {
     "students": {
       "total": 1,
-      "active": 0,
-      "inactive": 1
+      "active": 1,
+      "inactive": 0
     },
     "instructors": {
       "total": 1,
@@ -30,7 +30,7 @@
       "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-001.jpg",
       "course": "website_development",
       "createdAt": "2026-01-10",
-      "status": "inactive"
+      "status": "active"
     }
   ],
   "instructors": [
