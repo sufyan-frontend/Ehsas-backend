@@ -12,8 +12,8 @@
       "inactive": 0
     },
     "instructors": {
-      "total": 2,
-      "active": 2,
+      "total": 1,
+      "active": 1,
       "inactive": 0
     },
     "posts": {
@@ -36,15 +36,6 @@
     }
   ],
   "instructors": [
-    {
-      "id": "INS-001",
-      "name": "Muhamamd sufyan",
-      "phoneNumber": "02335587985",
-      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-001.jpg",
-      "role": "website_development",
-      "status": "active",
-      "createdAt": "2026-06-13"
-    },
     {
       "id": "INS-002",
       "username": "muhammad002",
