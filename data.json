@@ -12,7 +12,7 @@
       "fatherName": "Haji Ahmed Ali",
       "phoneNumber": "0300-1234567",
       "fatherCnic": "35202-1234567-1",
-      "profileImage": "students/images/STU-001.jpg",
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-001.jpg",
       "course": "website_development",
       "createdAt": "2026-01-10"
     },
