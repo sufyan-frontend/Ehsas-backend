@@ -5,6 +5,21 @@
     "video_editing",
     "digital_marketing"
   ],
+  "stats": {
+    "students": {
+      "total": 1,
+      "active": 0,
+      "inactive": 0
+    },
+    "instructors": {
+      "total": 1,
+      "active": 1,
+      "inactive": 0
+    },
+    "posts": {
+      "total": 0
+    }
+  },
   "students": [
     {
       "id": "STU-001",
@@ -17,5 +32,15 @@
       "createdAt": "2026-01-10"
     }
   ],
-  "instructors": []
+  "instructors": [
+    {
+      "id": "INS-001",
+      "name": "Muhamamd sufyan",
+      "phoneNumber": "02335587985",
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-001.jpg",
+      "role": "website_development",
+      "status": "active",
+      "createdAt": "2026-06-13"
+    }
+  ]
 }
