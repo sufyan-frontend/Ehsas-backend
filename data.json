@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 1,
-      "active": 1,
+      "total": 2,
+      "active": 2,
       "inactive": 0
     },
     "instructors": {
@@ -31,6 +31,19 @@
       "course": "website_development",
       "createdAt": "2026-01-10",
       "status": "active"
+    },
+    {
+      "id": "STU-002",
+      "username": "fdgdf002",
+      "pincode": "199395",
+      "name": "fdgdf",
+      "fatherName": "adfsd",
+      "phoneNumber": "dfasdfadsf324423",
+      "fatherCnic": "4579/798798798798",
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-002.jpg",
+      "course": "website_development",
+      "status": "active",
+      "createdAt": "2026-06-13"
     }
   ],
   "instructors": [
