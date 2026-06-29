@@ -11,5 +11,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-06-29"
+  },
+  {
+    "id": "STU-006",
+    "username": "muhammad006",
+    "pincode": "184193",
+    "name": "Muhammad Sufyan",
+    "fatherName": "Rayasat Ali",
+    "phoneNumber": "03227479636",
+    "fatherCnic": "5468798798798798989",
+    "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-006.jpg",
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-06-29"
   }
 ]
