@@ -1,18 +1,5 @@
 [
   {
-    "id": "STU-003",
-    "username": "muhammad003",
-    "pincode": "620938",
-    "name": "Muhammad Sufyan",
-    "fatherName": "Rayasat",
-    "phoneNumber": "03226878556",
-    "fatherCnic": "8455656895",
-    "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-003.jpg",
-    "course": "website_development",
-    "status": "active",
-    "createdAt": "2026-06-13"
-  },
-  {
     "id": "STU-004",
     "username": "hassam004",
     "pincode": "526298",
