@@ -1,18 +1,5 @@
 [
   {
-    "id": "STU-004",
-    "username": "hassam004",
-    "pincode": "526298",
-    "name": "Hassam",
-    "fatherName": "Idrees",
-    "phoneNumber": "03214565019",
-    "fatherCnic": "3450131810017",
-    "profileImage": null,
-    "course": "graphic_design",
-    "status": "active",
-    "createdAt": "2026-06-13"
-  },
-  {
     "id": "STU-005",
     "username": "hassam005",
     "pincode": "788100",
