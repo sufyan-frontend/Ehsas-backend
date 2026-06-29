@@ -1,15 +1,15 @@
 [
   {
-    "status": "revision",
+    "status": "submitted",
     "stars": null,
-    "reviewedAt": "2026-06-29T16:42:13.257Z",
-    "feedback": "This is not perfet i wan to receat this",
+    "reviewedAt": null,
+    "feedback": null,
     "id": "SUB-001",
     "taskId": "TASK-001",
     "studentId": "STU-006",
-    "image": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/submissions/images/SUB-001.png",
-    "notes": "jdhfjadshfasdffads",
-    "submittedAt": "2026-06-29T16:33:52.448Z",
+    "image": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/submissions/images/SUB-001.jpg",
+    "notes": "dsafadsfdasfd",
+    "submittedAt": "2026-06-29T16:43:02.985Z",
     "grade": null,
     "gradedAt": null
   }
