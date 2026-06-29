@@ -7,7 +7,7 @@
     "fatherName": "Idrees",
     "phoneNumber": "xxxxxxx",
     "fatherCnic": "33333333333333333",
-    "profileImage": null,
+    "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-005.png",
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-06-29"
