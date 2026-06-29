@@ -1,13 +1,1 @@
-[
-  {
-    "id": "INS-002",
-    "username": "muhamad002",
-    "pincode": "864568",
-    "name": "Muhamad sufyan",
-    "phoneNumber": "354196709665",
-    "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-002.jpg",
-    "role": "website_development",
-    "status": "active",
-    "createdAt": "2026-06-13"
-  }
-]
+[]
