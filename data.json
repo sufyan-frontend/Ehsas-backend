@@ -12,8 +12,8 @@
       "inactive": 0
     },
     "instructors": {
-      "total": 0,
-      "active": 0,
+      "total": 1,
+      "active": 1,
       "inactive": 0
     },
     "posts": {
@@ -35,5 +35,17 @@
       "createdAt": "2026-06-29"
     }
   ],
-  "instructors": []
+  "instructors": [
+    {
+      "id": "INS-001",
+      "username": "shazaib001",
+      "pincode": "549988",
+      "name": "Shazaib Ali",
+      "phoneNumber": "03256509898094",
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-001.png",
+      "role": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-06-29"
+    }
+  ]
 }
