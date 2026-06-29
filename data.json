@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 3,
-      "active": 3,
+      "total": 4,
+      "active": 4,
       "inactive": 0
     },
     "instructors": {
@@ -59,6 +59,19 @@
       "course": "graphic_design",
       "status": "active",
       "createdAt": "2026-06-13"
+    },
+    {
+      "id": "STU-005",
+      "username": "hassam005",
+      "pincode": "788100",
+      "name": "Hassam",
+      "fatherName": "Idrees",
+      "phoneNumber": "xxxxxxx",
+      "fatherCnic": "33333333333333333",
+      "profileImage": null,
+      "course": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-06-29"
     }
   ],
   "instructors": [
