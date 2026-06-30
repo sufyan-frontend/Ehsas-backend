@@ -1,0 +1,17 @@
+[
+  {
+    "id": "MEET-001",
+    "title": "Daily meeting link",
+    "link": "https://sufyan-frontend.vercel.app/projects",
+    "description": "Join at 2 pm",
+    "scheduledAt": "2026-06-30T10:40:00.000Z",
+    "instructorIds": [
+      "INS-001"
+    ],
+    "studentIds": [
+      "STU-006",
+      "STU-005"
+    ],
+    "createdAt": "2026-06-30"
+  }
+]
