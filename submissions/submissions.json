@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "SUB-001",
+    "taskId": "TASK-001",
+    "studentId": "STU-006",
+    "image": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/submissions/images/SUB-001.jpg",
+    "notes": "mndcm dc",
+    "submittedAt": "2026-06-30T12:33:09.368Z",
+    "status": "submitted",
+    "stars": null,
+    "feedback": null,
+    "reviewedAt": null
+  }
+]
