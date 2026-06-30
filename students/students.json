@@ -24,5 +24,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-06-29"
+  },
+  {
+    "id": "STU-007",
+    "username": "fahad007",
+    "pincode": "443377",
+    "name": "Fahad",
+    "fatherName": "Mahmod",
+    "phoneNumber": "0332659878979",
+    "fatherCnic": "3215498798879",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-06-30"
   }
 ]
