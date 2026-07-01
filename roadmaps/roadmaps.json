@@ -1,0 +1,149 @@
+[
+  {
+    "id": "ROAD-001",
+    "instructorId": "INS-001",
+    "title": "The desing eof the same",
+    "duration": "1_month",
+    "assignedStudentIds": [
+      "STU-006",
+      "STU-005",
+      "STU-007"
+    ],
+    "weeks": [
+      {
+        "title": "Week 1",
+        "days": [
+          {
+            "title": "Day 1",
+            "status": "pending"
+          },
+          {
+            "title": "Day 2",
+            "status": "pending"
+          },
+          {
+            "title": "Day 3",
+            "status": "pending"
+          },
+          {
+            "title": "Day 4",
+            "status": "pending"
+          },
+          {
+            "title": "Day 5",
+            "status": "pending"
+          },
+          {
+            "title": "Day 6",
+            "status": "pending"
+          },
+          {
+            "title": "Day 7",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "title": "Week 2",
+        "days": [
+          {
+            "title": "Day 1",
+            "status": "pending"
+          },
+          {
+            "title": "Day 2",
+            "status": "pending"
+          },
+          {
+            "title": "Day 3",
+            "status": "pending"
+          },
+          {
+            "title": "Day 4",
+            "status": "pending"
+          },
+          {
+            "title": "Day 5",
+            "status": "pending"
+          },
+          {
+            "title": "Day 6",
+            "status": "pending"
+          },
+          {
+            "title": "Day 7",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "title": "Week 3",
+        "days": [
+          {
+            "title": "Day 1",
+            "status": "pending"
+          },
+          {
+            "title": "Day 2",
+            "status": "pending"
+          },
+          {
+            "title": "Day 3",
+            "status": "pending"
+          },
+          {
+            "title": "Day 4",
+            "status": "pending"
+          },
+          {
+            "title": "Day 5",
+            "status": "pending"
+          },
+          {
+            "title": "Day 6",
+            "status": "pending"
+          },
+          {
+            "title": "Day 7",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "title": "Week 4",
+        "days": [
+          {
+            "title": "Day 1",
+            "status": "pending"
+          },
+          {
+            "title": "Day 2",
+            "status": "pending"
+          },
+          {
+            "title": "Day 3",
+            "status": "pending"
+          },
+          {
+            "title": "Day 4",
+            "status": "pending"
+          },
+          {
+            "title": "Day 5",
+            "status": "pending"
+          },
+          {
+            "title": "Day 6",
+            "status": "pending"
+          },
+          {
+            "title": "Day 7",
+            "status": "pending"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-07-01",
+    "updatedAt": "2026-07-01"
+  }
+]
