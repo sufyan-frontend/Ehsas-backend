@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 3,
-      "active": 3,
+      "total": 4,
+      "active": 4,
       "inactive": 0
     },
     "instructors": {
@@ -57,6 +57,19 @@
       "fatherCnic": "CNIC",
       "profileImage": null,
       "course": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-07"
+    },
+    {
+      "id": "STU-004",
+      "username": "ali004",
+      "pincode": "532151",
+      "name": "Ali Haider",
+      "fatherName": "ABC",
+      "phoneNumber": "03708278858",
+      "fatherCnic": "XYZ",
+      "profileImage": null,
+      "course": "website_development",
       "status": "active",
       "createdAt": "2026-07-07"
     }
