@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "STU-001",
+    "username": "eman001",
+    "pincode": "512399",
+    "name": "Eman",
+    "fatherName": "Shafiq",
+    "phoneNumber": "0329 6622 990",
+    "fatherCnic": "34104-1341122-3",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-07"
+  }
+]
