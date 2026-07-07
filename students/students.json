@@ -24,5 +24,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-07"
+  },
+  {
+    "id": "STU-003",
+    "username": "mian003",
+    "pincode": "365885",
+    "name": "Mian Umair",
+    "fatherName": "Saleem",
+    "phoneNumber": "03491059988",
+    "fatherCnic": "CNIC",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-07"
   }
 ]
