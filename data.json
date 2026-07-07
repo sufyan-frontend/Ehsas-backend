@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 3,
-      "active": 3,
+      "total": 2,
+      "active": 2,
       "inactive": 0
     },
     "instructors": {
@@ -21,19 +21,6 @@
     }
   },
   "students": [
-    {
-      "id": "STU-005",
-      "username": "hassam005",
-      "pincode": "123456",
-      "name": "Hassam",
-      "fatherName": "Idrees",
-      "phoneNumber": "xxxxxxx",
-      "fatherCnic": "33333333333333333",
-      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-005.png",
-      "course": "graphic_design",
-      "status": "active",
-      "createdAt": "2026-06-29"
-    },
     {
       "id": "STU-006",
       "username": "muhammad006",
