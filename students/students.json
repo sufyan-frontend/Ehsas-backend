@@ -50,5 +50,18 @@
     "course": "website_development",
     "status": "active",
     "createdAt": "2026-07-07"
+  },
+  {
+    "id": "STU-005",
+    "username": "rabia005",
+    "pincode": "998573",
+    "name": "Rabia Akhtar",
+    "fatherName": "Akhtar",
+    "phoneNumber": "03246076755",
+    "fatherCnic": "XYZ",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-07"
   }
 ]
