@@ -11,5 +11,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-07"
+  },
+  {
+    "id": "STU-002",
+    "username": "ayyan002",
+    "pincode": "590332",
+    "name": "Ayyan",
+    "fatherName": "ABC",
+    "phoneNumber": "03338872602",
+    "fatherCnic": "CNIC",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-07"
   }
 ]
