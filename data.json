@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 1,
-      "active": 1,
+      "total": 0,
+      "active": 0,
       "inactive": 0
     },
     "instructors": {
@@ -20,21 +20,7 @@
       "total": 0
     }
   },
-  "students": [
-    {
-      "id": "STU-006",
-      "username": "muhammad006",
-      "pincode": "123456",
-      "name": "Muhammad Sufyan",
-      "fatherName": "Rayasat Ali",
-      "phoneNumber": "03227479636",
-      "fatherCnic": "5468798798798798989",
-      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-006.jpg",
-      "course": "graphic_design",
-      "status": "active",
-      "createdAt": "2026-06-29"
-    }
-  ],
+  "students": [],
   "instructors": [
     {
       "id": "INS-001",
