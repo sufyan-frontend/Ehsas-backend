@@ -3,7 +3,7 @@
     "website_development",
     "graphic_design",
     "video_editing",
-    "digital_marketing"
+    "ui_ux_design"
   ],
   "stats": {
     "students": {
@@ -24,7 +24,7 @@
     {
       "id": "STU-001",
       "username": "eman001",
-      "pincode": "512388",
+      "pincode": "123456",
       "name": "Eman",
       "fatherName": "Shafiq",
       "phoneNumber": "0329 6622 990",
