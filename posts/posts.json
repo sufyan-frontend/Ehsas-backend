@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "POST-001",
+    "title": "__TEST_NOIMG__",
+    "description": "temp",
+    "tags": [],
+    "image": null,
+    "views": 0,
+    "createdAt": "2026-07-08",
+    "updatedAt": "2026-07-08"
+  }
+]
