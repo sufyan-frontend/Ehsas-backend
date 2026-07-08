@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "TASK-001",
+    "instructorId": "INS-001",
+    "title": "Build a bear logo",
+    "description": "Made it perfect and beautifull",
+    "course": "graphic_design",
+    "image": null,
+    "dueDate": "2026-07-31",
+    "maxMarks": 100,
+    "status": "published",
+    "assignedStudentIds": [
+      "STU-001",
+      "STU-002",
+      "STU-005",
+      "STU-003"
+    ],
+    "createdAt": "2026-07-08"
+  }
+]
