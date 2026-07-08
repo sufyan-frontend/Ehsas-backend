@@ -121,7 +121,8 @@
       "STU-002": {
         "0-0": "completed",
         "0-1": "submitted",
-        "0-6": "submitted"
+        "0-6": "submitted",
+        "0-2": "submitted"
       }
     },
     "createdAt": "2026-07-01",
