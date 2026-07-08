@@ -5,7 +5,8 @@
     "title": "__TEST_ROADMAP__",
     "duration": "2_weeks",
     "assignedStudentIds": [
-      "STU-001"
+      "STU-001",
+      "STU-002"
     ],
     "weeks": [
       {
