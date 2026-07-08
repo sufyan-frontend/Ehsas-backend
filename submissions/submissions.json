@@ -1,14 +1,14 @@
 [
   {
+    "status": "completed",
+    "stars": 5,
+    "reviewedAt": "2026-07-08T17:21:34.495Z",
+    "feedback": "Good job 👏",
     "id": "SUB-001",
     "taskId": "TASK-001",
     "studentId": "STU-001",
     "image": null,
     "notes": "Work and send this project o t he jskjs",
-    "submittedAt": "2026-07-08T17:20:54.253Z",
-    "status": "submitted",
-    "stars": null,
-    "feedback": null,
-    "reviewedAt": null
+    "submittedAt": "2026-07-08T17:20:54.253Z"
   }
 ]
