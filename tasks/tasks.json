@@ -1,17 +1,1 @@
-[
-  {
-    "id": "TASK-001",
-    "instructorId": "INS-001",
-    "title": "Company Profile Design",
-    "description": "Here is etc.............",
-    "course": "graphic_design",
-    "image": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/tasks/images/TASK-001.jpg",
-    "dueDate": "2026-06-09",
-    "maxMarks": 100,
-    "status": "published",
-    "assignedStudentIds": [
-      "STU-006"
-    ],
-    "createdAt": "2026-06-30"
-  }
-]
+[]
