@@ -1,17 +1,1 @@
-[
-  {
-    "id": "TASK-001",
-    "instructorId": "INS-001",
-    "title": "__TESTTASK__",
-    "description": "d",
-    "course": "ui_ux_design",
-    "image": null,
-    "dueDate": "2026-08-01",
-    "maxMarks": 100,
-    "status": "draft",
-    "assignedStudentIds": [
-      "STU-001"
-    ],
-    "createdAt": "2026-07-08"
-  }
-]
+[]
