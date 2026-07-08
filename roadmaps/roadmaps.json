@@ -63,7 +63,9 @@
       }
     ],
     "progress": {
-      "STU-001": {},
+      "STU-001": {
+        "0-0": "completed"
+      },
       "STU-002": {
         "0-3": "submitted"
       }
