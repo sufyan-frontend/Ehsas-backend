@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 6,
-      "active": 6,
+      "total": 5,
+      "active": 5,
       "inactive": 0
     },
     "instructors": {
@@ -85,19 +85,6 @@
       "course": "graphic_design",
       "status": "active",
       "createdAt": "2026-07-07"
-    },
-    {
-      "id": "STU-006",
-      "username": "EL20206",
-      "pincode": "610877",
-      "name": "Zeeshan Test",
-      "fatherName": "Father Test",
-      "phoneNumber": "+92-300-1112223",
-      "fatherCnic": "12345-6789012-3",
-      "profileImage": null,
-      "course": "ui_ux_design",
-      "status": "active",
-      "createdAt": "2026-07-08"
     }
   ],
   "instructors": [
