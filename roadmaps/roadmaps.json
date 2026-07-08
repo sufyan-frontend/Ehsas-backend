@@ -5,8 +5,7 @@
     "title": "__GHOSTTEST__",
     "duration": "2_weeks",
     "assignedStudentIds": [
-      "STU-001",
-      "STU-006"
+      "STU-001"
     ],
     "weeks": [
       {
@@ -62,11 +61,7 @@
         ]
       }
     ],
-    "progress": {
-      "STU-006": {
-        "0-0": "submitted"
-      }
-    },
+    "progress": {},
     "createdAt": "2026-07-08",
     "updatedAt": "2026-07-08"
   },
@@ -76,7 +71,6 @@
     "title": "The desing eof the same",
     "duration": "1_month",
     "assignedStudentIds": [
-      "STU-006",
       "STU-005",
       "STU-007",
       "STU-002",
