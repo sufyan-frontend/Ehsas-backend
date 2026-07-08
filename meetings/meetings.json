@@ -1,19 +1,5 @@
 [
   {
-    "id": "MEET-002",
-    "title": "__TESTMEET__",
-    "link": "https://x.com",
-    "description": "",
-    "scheduledAt": null,
-    "instructorIds": [
-      "INS-001"
-    ],
-    "studentIds": [
-      "STU-001"
-    ],
-    "createdAt": "2026-07-08"
-  },
-  {
     "description": "Join at 2 pm",
     "scheduledAt": "2026-06-30T10:40:00.000Z",
     "instructorIds": [
