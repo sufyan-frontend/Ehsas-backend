@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "POST-001",
+    "title": "__T2__",
+    "description": "d",
+    "tags": [],
+    "image": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/posts/images/POST-001.png",
+    "views": 0,
+    "createdAt": "2026-07-08",
+    "updatedAt": "2026-07-08"
+  }
+]
