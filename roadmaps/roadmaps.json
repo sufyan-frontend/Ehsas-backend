@@ -3,7 +3,7 @@
     "id": "ROAD-002",
     "instructorId": "INS-001",
     "title": "__TEST_RENAMED__",
-    "duration": "1_month",
+    "duration": "2_weeks",
     "assignedStudentIds": [
       "STU-001",
       "STU-002"
@@ -37,58 +37,6 @@
       },
       {
         "title": "Week 2",
-        "days": [
-          {
-            "title": "Day 1"
-          },
-          {
-            "title": "Day 2"
-          },
-          {
-            "title": "Day 3"
-          },
-          {
-            "title": "Day 4"
-          },
-          {
-            "title": "Day 5"
-          },
-          {
-            "title": "Day 6"
-          },
-          {
-            "title": "Day 7"
-          }
-        ]
-      },
-      {
-        "title": "Week 3",
-        "days": [
-          {
-            "title": "Day 1"
-          },
-          {
-            "title": "Day 2"
-          },
-          {
-            "title": "Day 3"
-          },
-          {
-            "title": "Day 4"
-          },
-          {
-            "title": "Day 5"
-          },
-          {
-            "title": "Day 6"
-          },
-          {
-            "title": "Day 7"
-          }
-        ]
-      },
-      {
-        "title": "Week 4",
         "days": [
           {
             "title": "Day 1"
