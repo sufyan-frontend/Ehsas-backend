@@ -120,7 +120,8 @@
     "progress": {
       "STU-002": {
         "0-0": "completed",
-        "0-4": "submitted"
+        "0-1": "submitted",
+        "0-6": "submitted"
       }
     },
     "createdAt": "2026-07-01",
