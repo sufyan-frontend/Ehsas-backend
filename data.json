@@ -12,8 +12,8 @@
       "inactive": 0
     },
     "instructors": {
-      "total": 3,
-      "active": 3,
+      "total": 4,
+      "active": 4,
       "inactive": 0
     },
     "posts": {
@@ -120,6 +120,17 @@
       "role": "graphic_design",
       "status": "active",
       "createdAt": "2026-07-05"
+    },
+    {
+      "id": "INS-004",
+      "username": "kamran004",
+      "pincode": "314843",
+      "name": "Kamran Test",
+      "phoneNumber": "+92-300-9998887",
+      "profileImage": null,
+      "role": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-08"
     }
   ]
 }
