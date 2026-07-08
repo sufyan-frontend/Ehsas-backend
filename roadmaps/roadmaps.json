@@ -129,7 +129,8 @@
         "1-5": "submitted"
       },
       "STU-001": {
-        "0-0": "submitted"
+        "0-0": "submitted",
+        "0-1": "submitted"
       }
     },
     "createdAt": "2026-07-01",
