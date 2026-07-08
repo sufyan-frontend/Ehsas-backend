@@ -7,39 +7,34 @@
     "assignedStudentIds": [
       "STU-006",
       "STU-005",
-      "STU-007"
+      "STU-007",
+      "STU-002",
+      "STU-001"
     ],
     "weeks": [
       {
         "title": "Week 1",
         "days": [
           {
-            "title": "Day 1",
-            "status": "pending"
+            "title": "Day 1"
           },
           {
-            "title": "Day 2",
-            "status": "pending"
+            "title": "Day 2"
           },
           {
-            "title": "Day 3",
-            "status": "pending"
+            "title": "Day 3"
           },
           {
-            "title": "Day 4",
-            "status": "pending"
+            "title": "Day 4"
           },
           {
-            "title": "Day 5",
-            "status": "pending"
+            "title": "Day 5"
           },
           {
-            "title": "Day 6",
-            "status": "pending"
+            "title": "Day 6"
           },
           {
-            "title": "Day 7",
-            "status": "pending"
+            "title": "Day 7"
           }
         ]
       },
@@ -47,32 +42,25 @@
         "title": "Week 2",
         "days": [
           {
-            "title": "Day 1",
-            "status": "pending"
+            "title": "Day 1"
           },
           {
-            "title": "Day 2",
-            "status": "pending"
+            "title": "Day 2"
           },
           {
-            "title": "Day 3",
-            "status": "pending"
+            "title": "Day 3"
           },
           {
-            "title": "Day 4",
-            "status": "pending"
+            "title": "Day 4"
           },
           {
-            "title": "Day 5",
-            "status": "pending"
+            "title": "Day 5"
           },
           {
-            "title": "Day 6",
-            "status": "pending"
+            "title": "Day 6"
           },
           {
-            "title": "Day 7",
-            "status": "pending"
+            "title": "Day 7"
           }
         ]
       },
@@ -80,32 +68,25 @@
         "title": "Week 3",
         "days": [
           {
-            "title": "Day 1",
-            "status": "pending"
+            "title": "Day 1"
           },
           {
-            "title": "Day 2",
-            "status": "pending"
+            "title": "Day 2"
           },
           {
-            "title": "Day 3",
-            "status": "pending"
+            "title": "Day 3"
           },
           {
-            "title": "Day 4",
-            "status": "pending"
+            "title": "Day 4"
           },
           {
-            "title": "Day 5",
-            "status": "pending"
+            "title": "Day 5"
           },
           {
-            "title": "Day 6",
-            "status": "pending"
+            "title": "Day 6"
           },
           {
-            "title": "Day 7",
-            "status": "pending"
+            "title": "Day 7"
           }
         ]
       },
@@ -113,37 +94,31 @@
         "title": "Week 4",
         "days": [
           {
-            "title": "Day 1",
-            "status": "pending"
+            "title": "Day 1"
           },
           {
-            "title": "Day 2",
-            "status": "pending"
+            "title": "Day 2"
           },
           {
-            "title": "Day 3",
-            "status": "pending"
+            "title": "Day 3"
           },
           {
-            "title": "Day 4",
-            "status": "pending"
+            "title": "Day 4"
           },
           {
-            "title": "Day 5",
-            "status": "pending"
+            "title": "Day 5"
           },
           {
-            "title": "Day 6",
-            "status": "pending"
+            "title": "Day 6"
           },
           {
-            "title": "Day 7",
-            "status": "pending"
+            "title": "Day 7"
           }
         ]
       }
     ],
+    "progress": {},
     "createdAt": "2026-07-01",
-    "updatedAt": "2026-07-01"
+    "updatedAt": "2026-07-08"
   }
 ]
