@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 6,
-      "active": 6,
+      "total": 5,
+      "active": 5,
       "inactive": 0
     },
     "instructors": {
@@ -85,19 +85,6 @@
       "course": "graphic_design",
       "status": "active",
       "createdAt": "2026-07-07"
-    },
-    {
-      "id": "STU-006",
-      "username": "EL20206",
-      "pincode": "193559",
-      "name": "Ghost Test",
-      "fatherName": "F",
-      "phoneNumber": "+92-300-1231231",
-      "fatherCnic": "1-2-3",
-      "profileImage": null,
-      "course": "ui_ux_design",
-      "status": "active",
-      "createdAt": "2026-07-08"
     }
   ],
   "instructors": [
