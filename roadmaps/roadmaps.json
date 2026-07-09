@@ -10,15 +10,15 @@
     "weeks": [
       {
         "id": "caa5dd5e",
-        "title": "W1",
+        "title": "W1 renamed",
         "tasks": [
           {
             "id": "83503450",
-            "title": "T1",
+            "title": "T1 renamed",
             "subtasks": [
               {
                 "id": "9287db81",
-                "title": "S1"
+                "title": "S1 renamed"
               }
             ]
           }
