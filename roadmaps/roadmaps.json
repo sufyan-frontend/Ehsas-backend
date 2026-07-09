@@ -1,5 +1,49 @@
 [
   {
+    "id": "ROAD-005",
+    "instructorId": "INS-001",
+    "title": "__DEFAULTS__",
+    "duration": "2_weeks",
+    "assignedStudentIds": [],
+    "weeks": [
+      {
+        "id": "7e9a4dd1",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "ef7ab251",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "605946b1",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ca3bc647",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "186ddb6b",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "3b502533",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-09",
+    "updatedAt": "2026-07-09"
+  },
+  {
     "id": "ROAD-004",
     "instructorId": "INS-001",
     "title": "__NEWMODEL__",
