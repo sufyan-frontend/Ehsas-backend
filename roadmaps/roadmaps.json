@@ -29,7 +29,11 @@
         ]
       }
     ],
-    "progress": {},
+    "progress": {
+      "STU-001": {
+        "62118e6b": "completed"
+      }
+    },
     "createdAt": "2026-07-09",
     "updatedAt": "2026-07-09"
   },
