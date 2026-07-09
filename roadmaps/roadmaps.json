@@ -9,31 +9,16 @@
     ],
     "weeks": [
       {
-        "id": "a3bebd93",
+        "id": "2eef4aa3",
         "title": "W1",
-        "tasks": [
-          {
-            "id": "9f52aa74",
-            "title": "T1",
-            "subtasks": [
-              {
-                "id": "651b1742",
-                "title": "A"
-              },
-              {
-                "id": "3820f530",
-                "title": "B"
-              }
-            ]
-          }
-        ]
+        "tasks": []
       },
       {
-        "id": "cf56d6d7",
+        "id": "14b2e651",
         "title": "W2",
         "tasks": [
           {
-            "id": "6903b6d6",
+            "id": "c7a0d9ee",
             "title": "T2",
             "subtasks": [
               {
@@ -47,8 +32,6 @@
     ],
     "progress": {
       "STU-001": {
-        "651b1742": "completed",
-        "3820f530": "completed",
         "c01dee31": "submitted"
       }
     },
