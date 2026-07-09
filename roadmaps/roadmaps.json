@@ -10,49 +10,12 @@
     "weeks": [
       {
         "id": "fef3403b",
-        "title": "W1 renamed",
-        "tasks": [
-          {
-            "id": "b7e03851",
-            "title": "T1 renamed",
-            "subtasks": [
-              {
-                "id": "324cc9cd",
-                "title": "S1 renamed"
-              },
-              {
-                "id": "96f7cae3",
-                "title": "S2"
-              },
-              {
-                "id": "4faacaf3",
-                "title": "S3 new"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "2fa9e74b",
-        "title": "W2",
-        "tasks": [
-          {
-            "id": "b5b8aa4d",
-            "title": "T2",
-            "subtasks": [
-              {
-                "id": "a2ee3e42",
-                "title": "S4"
-              }
-            ]
-          }
-        ]
+        "title": "W1",
+        "tasks": []
       }
     ],
     "progress": {
-      "STU-001": {
-        "324cc9cd": "completed"
-      }
+      "STU-001": {}
     },
     "createdAt": "2026-07-09",
     "updatedAt": "2026-07-09"
