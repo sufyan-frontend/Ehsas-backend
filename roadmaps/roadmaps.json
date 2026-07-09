@@ -10,19 +10,23 @@
     "weeks": [
       {
         "id": "fef3403b",
-        "title": "W1",
+        "title": "W1 renamed",
         "tasks": [
           {
             "id": "b7e03851",
-            "title": "T1",
+            "title": "T1 renamed",
             "subtasks": [
               {
                 "id": "324cc9cd",
-                "title": "S1"
+                "title": "S1 renamed"
               },
               {
                 "id": "96f7cae3",
                 "title": "S2"
+              },
+              {
+                "id": "4faacaf3",
+                "title": "S3 new"
               }
             ]
           }
