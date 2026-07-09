@@ -38,7 +38,7 @@
     "pincode": "178385",
     "name": "Muhammad Hassam",
     "phoneNumber": "03214565019",
-    "profileImage": null,
+    "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-004.png",
     "role": "ui_ux_design",
     "status": "active",
     "createdAt": "2026-07-09"
