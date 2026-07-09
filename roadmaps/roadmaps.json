@@ -1,49 +1,5 @@
 [
   {
-    "id": "ROAD-004",
-    "instructorId": "INS-001",
-    "title": "__NEWMODEL__",
-    "duration": "custom",
-    "assignedStudentIds": [
-      "STU-001"
-    ],
-    "weeks": [
-      {
-        "id": "8154dda0",
-        "title": "Foundations",
-        "tasks": [
-          {
-            "id": "a8ef4ff6",
-            "title": "HTML",
-            "subtasks": [
-              {
-                "id": "4b425c37",
-                "title": "Semantic tags"
-              },
-              {
-                "id": "87f4d2fe",
-                "title": "Forms"
-              }
-            ]
-          },
-          {
-            "id": "06d1ca16",
-            "title": "CSS",
-            "subtasks": [
-              {
-                "id": "0d95f77d",
-                "title": "Box model"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "progress": {},
-    "createdAt": "2026-07-09",
-    "updatedAt": "2026-07-09"
-  },
-  {
     "id": "ROAD-003",
     "instructorId": "INS-004",
     "title": "UI/UX Design - Level A2",
