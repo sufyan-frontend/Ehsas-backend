@@ -1,5 +1,33 @@
 [
   {
+    "id": "ROAD-005",
+    "instructorId": "INS-001",
+    "title": "__IMM0__",
+    "duration": "custom",
+    "assignedStudentIds": [],
+    "weeks": [
+      {
+        "id": "36f2114e",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "4307b7c0",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "fa322d47",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-09",
+    "updatedAt": "2026-07-09"
+  },
+  {
     "id": "ROAD-004",
     "instructorId": "INS-001",
     "title": "Front end",
