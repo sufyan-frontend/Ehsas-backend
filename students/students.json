@@ -102,5 +102,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-09"
+  },
+  {
+    "id": "STU-009",
+    "username": "EL20209",
+    "pincode": "557099",
+    "name": "Test 2",
+    "fatherName": "Test 2",
+    "phoneNumber": "Test 2",
+    "fatherCnic": "Test 2",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-09"
   }
 ]
