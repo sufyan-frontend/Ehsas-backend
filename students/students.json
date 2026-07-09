@@ -89,5 +89,18 @@
     "course": "ui_ux_design",
     "status": "active",
     "createdAt": "2026-07-09"
+  },
+  {
+    "id": "STU-008",
+    "username": "EL20208",
+    "pincode": "449126",
+    "name": "Testing Student",
+    "fatherName": "Test",
+    "phoneNumber": "0344 4444 444",
+    "fatherCnic": "44444-4444444-4",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-09"
   }
 ]
