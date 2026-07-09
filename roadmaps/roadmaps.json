@@ -1,5 +1,57 @@
 [
   {
+    "id": "ROAD-004",
+    "instructorId": "INS-001",
+    "title": "Front end",
+    "duration": "custom",
+    "assignedStudentIds": [
+      "STU-001"
+    ],
+    "weeks": [
+      {
+        "id": "1e5bd79d",
+        "title": "Learn the videos",
+        "tasks": [
+          {
+            "id": "73911880",
+            "title": "Hello wolrd",
+            "subtasks": [
+              {
+                "id": "3343dfd7",
+                "title": "Learn hwo to work"
+              },
+              {
+                "id": "b7d9f56e",
+                "title": "Learn hwo to work"
+              },
+              {
+                "id": "1313dc93",
+                "title": "Step 2"
+              },
+              {
+                "id": "eddc1649",
+                "title": "Step 3"
+              }
+            ]
+          },
+          {
+            "id": "a61b4c01",
+            "title": "Step three",
+            "subtasks": [
+              {
+                "id": "3a2aef2d",
+                "title": "adsfasdf"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-09",
+    "updatedAt": "2026-07-09"
+  },
+  {
     "id": "ROAD-003",
     "instructorId": "INS-004",
     "title": "UI/UX Design - Level A2",
