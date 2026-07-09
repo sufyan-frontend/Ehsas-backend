@@ -115,5 +115,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-09"
+  },
+  {
+    "id": "STU-010",
+    "username": "EL20210",
+    "pincode": "735620",
+    "name": "Cache Test",
+    "fatherName": "F",
+    "phoneNumber": "+92-300-5556667",
+    "fatherCnic": "1-2-3",
+    "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-010.png?v=1783609952168",
+    "course": "ui_ux_design",
+    "status": "active",
+    "createdAt": "2026-07-09"
   }
 ]
