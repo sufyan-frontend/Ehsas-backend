@@ -1,43 +1,5 @@
 [
   {
-    "id": "ROAD-004",
-    "instructorId": "INS-001",
-    "title": "__EDITTEST__",
-    "duration": "custom",
-    "assignedStudentIds": [
-      "STU-001"
-    ],
-    "weeks": [
-      {
-        "id": "76b1fc8d",
-        "title": "W1 renamed",
-        "tasks": [
-          {
-            "id": "994c3434",
-            "title": "T1 renamed",
-            "subtasks": [
-              {
-                "id": "0432bdbd",
-                "title": "S1 renamed"
-              },
-              {
-                "id": "a9c0c1c2",
-                "title": "S2"
-              },
-              {
-                "id": "6b577536",
-                "title": "S3 new"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "progress": {},
-    "createdAt": "2026-07-09",
-    "updatedAt": "2026-07-09"
-  },
-  {
     "id": "ROAD-003",
     "instructorId": "INS-004",
     "title": "UI/UX Design - Level A2",
