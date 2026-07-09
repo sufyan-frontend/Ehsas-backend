@@ -15,11 +15,6 @@
     "assignedAt": "2026-06-29"
   },
   {
-    "studentId": "STU-007",
-    "instructorId": "INS-001",
-    "assignedAt": "2026-06-30"
-  },
-  {
     "studentId": "STU-003",
     "instructorId": "INS-001",
     "assignedAt": "2026-07-08"
@@ -33,5 +28,10 @@
     "studentId": "STU-005",
     "instructorId": "INS-001",
     "assignedAt": "2026-07-08"
+  },
+  {
+    "studentId": "STU-007",
+    "instructorId": "INS-004",
+    "assignedAt": "2026-07-09"
   }
 ]
