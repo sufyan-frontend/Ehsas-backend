@@ -76,5 +76,18 @@
     "course": "ui_ux_design",
     "status": "active",
     "createdAt": "2026-07-09"
+  },
+  {
+    "id": "STU-007",
+    "username": "EL20207",
+    "pincode": "501610",
+    "name": "Aiza Faiz",
+    "fatherName": "Muhammad Abdullah",
+    "phoneNumber": "03175572023",
+    "fatherCnic": "37201-1625527-5",
+    "profileImage": null,
+    "course": "ui_ux_design",
+    "status": "active",
+    "createdAt": "2026-07-09"
   }
 ]
