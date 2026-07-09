@@ -1,8 +1,5 @@
 [
   {
-    "id": "MEET-002",
-    "title": "Daily Meeting - UI/UX Designers",
-    "link": "https://meet.google.com/ewt-kpgq-fox",
     "description": "",
     "scheduledAt": null,
     "instructorIds": [
@@ -12,6 +9,9 @@
       "STU-007",
       "STU-006"
     ],
+    "id": "MEET-002",
+    "title": "Daily Meeting - UI/UX Designers",
+    "link": "https://meet.google.com/ewt-kpgq-fox",
     "createdAt": "2026-07-09"
   },
   {
