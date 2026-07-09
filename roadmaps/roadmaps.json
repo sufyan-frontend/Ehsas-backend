@@ -1,5 +1,55 @@
 [
   {
+    "id": "ROAD-006",
+    "instructorId": "INS-001",
+    "title": "__LOCKTEST__",
+    "duration": "custom",
+    "assignedStudentIds": [
+      "STU-001"
+    ],
+    "weeks": [
+      {
+        "id": "a3bebd93",
+        "title": "W1",
+        "tasks": [
+          {
+            "id": "9f52aa74",
+            "title": "T1",
+            "subtasks": [
+              {
+                "id": "651b1742",
+                "title": "A"
+              },
+              {
+                "id": "3820f530",
+                "title": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cf56d6d7",
+        "title": "W2",
+        "tasks": [
+          {
+            "id": "6903b6d6",
+            "title": "T2",
+            "subtasks": [
+              {
+                "id": "c01dee31",
+                "title": "C"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-09",
+    "updatedAt": "2026-07-09"
+  },
+  {
     "id": "ROAD-005",
     "instructorId": "INS-001",
     "title": "__DEFAULTS__",
