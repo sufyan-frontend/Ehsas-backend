@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 12,
-      "active": 12,
+      "total": 13,
+      "active": 13,
       "inactive": 0
     },
     "instructors": {
@@ -171,6 +171,19 @@
       "name": "Fahad Stu",
       "fatherName": "Father Name",
       "phoneNumber": "0000000000000",
+      "fatherCnic": "0000000000000",
+      "profileImage": null,
+      "course": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-10"
+    },
+    {
+      "id": "STU-013",
+      "username": "EL20213",
+      "pincode": "307514",
+      "name": "Samaha Stu",
+      "fatherName": "Father Name",
+      "phoneNumber": "000000000000",
       "fatherCnic": "0000000000000",
       "profileImage": null,
       "course": "graphic_design",
