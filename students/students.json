@@ -128,5 +128,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-10"
+  },
+  {
+    "id": "STU-011",
+    "username": "EL20211",
+    "pincode": "989707",
+    "name": "Shahzaib Stu",
+    "fatherName": "Father Name",
+    "phoneNumber": "00000000000000",
+    "fatherCnic": "00000000000000",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-10"
   }
 ]
