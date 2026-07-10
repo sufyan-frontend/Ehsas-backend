@@ -819,7 +819,11 @@
         ]
       }
     ],
-    "progress": {},
+    "progress": {
+      "STU-011": {
+        "7c2be9fe": "submitted"
+      }
+    },
     "createdAt": "2026-07-10",
     "updatedAt": "2026-07-10"
   },
