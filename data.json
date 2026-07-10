@@ -144,9 +144,9 @@
       "pincode": "666127",
       "name": "Farwa Student",
       "fatherName": "Father Name",
-      "phoneNumber": "0000000000000",
+      "phoneNumber": "03279931814",
       "fatherCnic": "0000000000000",
-      "profileImage": null,
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-010.png?v=1783675770674",
       "course": "graphic_design",
       "status": "active",
       "createdAt": "2026-07-10"
