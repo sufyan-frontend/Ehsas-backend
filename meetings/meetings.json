@@ -25,11 +25,26 @@
     "description": "Join at 2 pm",
     "scheduledAt": "2026-06-30T10:40:00.000Z",
     "instructorIds": [
-      "INS-001"
+      "INS-001",
+      "INS-004",
+      "INS-003",
+      "INS-005",
+      "INS-006"
     ],
     "studentIds": [
       "STU-006",
-      "STU-005"
+      "STU-005",
+      "STU-001",
+      "STU-002",
+      "STU-003",
+      "STU-013",
+      "STU-012",
+      "STU-011",
+      "STU-009",
+      "STU-010",
+      "STU-008",
+      "STU-007",
+      "STU-004"
     ],
     "id": "MEET-001",
     "title": "Daily meeting link",
