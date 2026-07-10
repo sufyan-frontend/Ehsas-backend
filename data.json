@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 13,
-      "active": 13,
+      "total": 14,
+      "active": 14,
       "inactive": 0
     },
     "instructors": {
@@ -187,6 +187,19 @@
       "fatherCnic": "0000000000000",
       "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-013.jpg?v=1783676193578",
       "course": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-10"
+    },
+    {
+      "id": "STU-014",
+      "username": "EL20214",
+      "pincode": "599590",
+      "name": "Hassam Student",
+      "fatherName": "M Idrees",
+      "phoneNumber": "03214565019",
+      "fatherCnic": "3450131810017",
+      "profileImage": null,
+      "course": "ui_ux_design",
       "status": "active",
       "createdAt": "2026-07-10"
     }
