@@ -4,7 +4,9 @@
     "instructorId": "INS-006",
     "title": "level a1",
     "duration": "3_months",
-    "assignedStudentIds": [],
+    "assignedStudentIds": [
+      "STU-012"
+    ],
     "weeks": [
       {
         "id": "fb435422",
