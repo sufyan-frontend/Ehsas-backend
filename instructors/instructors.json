@@ -53,5 +53,16 @@
     "role": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-10"
+  },
+  {
+    "id": "INS-006",
+    "username": "fahad006",
+    "pincode": "909031",
+    "name": "Fahad Inst",
+    "phoneNumber": "000000000000",
+    "profileImage": null,
+    "role": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-10"
   }
 ]
