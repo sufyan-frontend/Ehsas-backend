@@ -12,8 +12,8 @@
       "inactive": 0
     },
     "instructors": {
-      "total": 4,
-      "active": 4,
+      "total": 5,
+      "active": 5,
       "inactive": 0
     },
     "posts": {
@@ -235,6 +235,17 @@
       "role": "ui_ux_design",
       "status": "active",
       "createdAt": "2026-07-09"
+    },
+    {
+      "id": "INS-005",
+      "username": "farwa005",
+      "pincode": "539036",
+      "name": "Farwa Inst",
+      "phoneNumber": "00000000000",
+      "profileImage": null,
+      "role": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-10"
     }
   ]
 }
