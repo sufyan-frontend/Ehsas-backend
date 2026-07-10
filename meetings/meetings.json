@@ -3,11 +3,18 @@
     "description": "",
     "scheduledAt": null,
     "instructorIds": [
-      "INS-004"
+      "INS-004",
+      "INS-001",
+      "INS-003",
+      "INS-005",
+      "INS-006"
     ],
     "studentIds": [
       "STU-007",
-      "STU-006"
+      "STU-006",
+      "STU-001",
+      "STU-002",
+      "STU-003"
     ],
     "id": "MEET-002",
     "title": "Daily Meeting - UI/UX Designers",
