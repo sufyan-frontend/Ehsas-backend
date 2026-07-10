@@ -167,5 +167,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-10"
+  },
+  {
+    "id": "STU-014",
+    "username": "EL20214",
+    "pincode": "599590",
+    "name": "Hassam Student",
+    "fatherName": "M Idrees",
+    "phoneNumber": "03214565019",
+    "fatherCnic": "3450131810017",
+    "profileImage": null,
+    "course": "ui_ux_design",
+    "status": "active",
+    "createdAt": "2026-07-10"
   }
 ]
