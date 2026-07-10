@@ -4,7 +4,9 @@
     "instructorId": "INS-004",
     "title": "Testing Roadmap",
     "duration": "3_months",
-    "assignedStudentIds": [],
+    "assignedStudentIds": [
+      "STU-014"
+    ],
     "weeks": [
       {
         "id": "ee86309b",
