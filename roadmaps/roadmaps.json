@@ -10,15 +10,19 @@
     "weeks": [
       {
         "id": "49b420d3",
-        "title": "Learning",
+        "title": "Week 1",
         "tasks": [
           {
             "id": "5d64539c",
-            "title": "10 videos of gfs mentore",
+            "title": "Learning",
             "subtasks": [
               {
                 "id": "cd2dc2db",
-                "title": "Subtask 1"
+                "title": "Watch 5 video of GFX mentor"
+              },
+              {
+                "id": "dca0084e",
+                "title": "Watch 1 podcast"
               }
             ]
           },
