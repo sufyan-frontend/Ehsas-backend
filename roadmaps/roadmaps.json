@@ -1,5 +1,225 @@
 [
   {
+    "id": "ROAD-004",
+    "instructorId": "INS-001",
+    "title": "Graphic designe A1 level",
+    "duration": "3_months",
+    "assignedStudentIds": [
+      "STU-001"
+    ],
+    "weeks": [
+      {
+        "id": "49b420d3",
+        "title": "Learning",
+        "tasks": [
+          {
+            "id": "5d64539c",
+            "title": "10 videos of gfs mentore",
+            "subtasks": [
+              {
+                "id": "cd2dc2db",
+                "title": "Subtask 1"
+              }
+            ]
+          },
+          {
+            "id": "f97b5ccb",
+            "title": "Practice",
+            "subtasks": [
+              {
+                "id": "9a65c2c5",
+                "title": "Project 1"
+              },
+              {
+                "id": "06bb1df1",
+                "title": "Project 2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dbc46d8b",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "2bb0e88f",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "1847687f",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0e1741a9",
+        "title": "Week 3",
+        "tasks": [
+          {
+            "id": "608183f1",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "339c7179",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "e211474b",
+        "title": "Week 4",
+        "tasks": [
+          {
+            "id": "3fababb9",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "1dac4103",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6c0f6a5c",
+        "title": "Week 5",
+        "tasks": [
+          {
+            "id": "86fc13a4",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "86b3a1d2",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "be390a2f",
+        "title": "Week 6",
+        "tasks": [
+          {
+            "id": "1a31e8e0",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "99b353fb",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4075d1ca",
+        "title": "Week 7",
+        "tasks": [
+          {
+            "id": "b5f01972",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "32ed884b",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ab0dbc01",
+        "title": "Week 8",
+        "tasks": [
+          {
+            "id": "ba16e59a",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "e3971de8",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7d896128",
+        "title": "Week 9",
+        "tasks": [
+          {
+            "id": "ecf7d3ba",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "f0cc9d09",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6d896bae",
+        "title": "Week 10",
+        "tasks": [
+          {
+            "id": "9400264e",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "068c16ec",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "d501bd62",
+        "title": "Week 11",
+        "tasks": [
+          {
+            "id": "a329adcf",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "987a63aa",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "c4c0060b",
+        "title": "Week 12",
+        "tasks": [
+          {
+            "id": "27a4c232",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "6c8e0580",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-10",
+    "updatedAt": "2026-07-10"
+  },
+  {
     "id": "ROAD-003",
     "instructorId": "INS-004",
     "title": "UI/UX Design - Level A2",
