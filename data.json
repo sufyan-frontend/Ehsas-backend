@@ -183,9 +183,9 @@
       "pincode": "307514",
       "name": "Samaha Stu",
       "fatherName": "Father Name",
-      "phoneNumber": "000000000000",
+      "phoneNumber": "03003461946",
       "fatherCnic": "0000000000000",
-      "profileImage": null,
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-013.jpg?v=1783676193578",
       "course": "graphic_design",
       "status": "active",
       "createdAt": "2026-07-10"
