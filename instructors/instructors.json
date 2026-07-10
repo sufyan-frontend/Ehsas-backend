@@ -11,17 +11,6 @@
     "createdAt": "2026-06-29"
   },
   {
-    "id": "INS-002",
-    "username": "muhammad002",
-    "pincode": "102818",
-    "name": "Muhammad Sufyan",
-    "phoneNumber": "03227479636",
-    "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-002.jpg",
-    "role": "website_development",
-    "status": "active",
-    "createdAt": "2026-06-29"
-  },
-  {
     "id": "INS-003",
     "username": "samaha003",
     "pincode": "190848",
