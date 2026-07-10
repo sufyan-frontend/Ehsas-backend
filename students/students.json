@@ -115,5 +115,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-09"
+  },
+  {
+    "id": "STU-010",
+    "username": "EL20210",
+    "pincode": "666127",
+    "name": "Farwa Student",
+    "fatherName": "Father Name",
+    "phoneNumber": "0000000000000",
+    "fatherCnic": "0000000000000",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-10"
   }
 ]
