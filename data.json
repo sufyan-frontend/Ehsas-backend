@@ -8,8 +8,8 @@
   "stats": {
     "students": {
       "total": 16,
-      "active": 16,
-      "inactive": 0
+      "active": 15,
+      "inactive": 1
     },
     "instructors": {
       "total": 6,
@@ -228,7 +228,7 @@
       "fatherCnic": "1-2-3",
       "profileImage": null,
       "course": "ui_ux_design",
-      "status": "active",
+      "status": "inactive",
       "createdAt": "2026-07-11"
     }
   ],
