@@ -1087,11 +1087,12 @@
     ],
     "progress": {
       "STU-011": {
-        "7c2be9fe": "completed"
+        "7c2be9fe": "completed",
+        "9e7cf8f4": "submitted"
       }
     },
     "createdAt": "2026-07-10",
-    "updatedAt": "2026-07-10"
+    "updatedAt": "2026-07-11"
   },
   {
     "id": "ROAD-005",
