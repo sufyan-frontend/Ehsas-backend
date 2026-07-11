@@ -193,6 +193,7 @@
     "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-015.jpg?v=1783748112185",
     "course": "website_development",
     "status": "active",
-    "createdAt": "2026-07-11"
+    "createdAt": "2026-07-11",
+    "access": "block"
   }
 ]
