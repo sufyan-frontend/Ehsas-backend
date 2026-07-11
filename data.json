@@ -216,7 +216,7 @@
       "course": "website_development",
       "status": "active",
       "createdAt": "2026-07-11",
-      "access": "block"
+      "access": "auto"
     }
   ],
   "instructors": [
