@@ -1,5 +1,55 @@
 [
   {
+    "id": "ROAD-008",
+    "instructorId": "INS-007",
+    "title": "Learn Website development",
+    "duration": "2_weeks",
+    "assignedStudentIds": [
+      "STU-015"
+    ],
+    "weeks": [
+      {
+        "id": "2861758e",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "af0670c8",
+            "title": "Learn Typographicy",
+            "subtasks": [
+              {
+                "id": "eade95cf",
+                "title": "H1 Tag to H6 tag"
+              },
+              {
+                "id": "8b7f24e7",
+                "title": "<p></p>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9d22ada9",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "dc4bbefb",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "bb1efb72",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-11",
+    "updatedAt": "2026-07-11"
+  },
+  {
     "id": "ROAD-007",
     "instructorId": "INS-006",
     "title": "level a1",
