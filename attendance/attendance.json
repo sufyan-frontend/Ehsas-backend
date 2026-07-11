@@ -9,12 +9,12 @@
     "breaks": [
       {
         "start": "2026-07-11T06:49:45.062Z",
-        "end": null
+        "end": "2026-07-11T06:49:56.736Z"
       }
     ],
     "breakMinutes": 0,
     "status": "running",
-    "onBreak": true
+    "onBreak": false
   },
   {
     "id": "ATT-0013",
