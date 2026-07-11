@@ -1,19 +1,6 @@
 [
   {
     "description": "",
-    "scheduledAt": null,
-    "instructorIds": [
-      "INS-007"
-    ],
-    "studentIds": [],
-    "createdBy": "INS-007",
-    "id": "MEET-004",
-    "title": "own-edit",
-    "link": "https://x.com",
-    "createdAt": "2026-07-11"
-  },
-  {
-    "description": "",
     "scheduledAt": "2026-07-11T05:22:00.000Z",
     "instructorIds": [],
     "studentIds": [
