@@ -1,5 +1,13 @@
 [
   {
+    "id": "ATT-0013",
+    "studentId": "STU-012",
+    "date": "2026-07-11",
+    "checkIn": "2026-07-11T05:48:27.434Z",
+    "checkOut": null,
+    "durationMinutes": null
+  },
+  {
     "id": "ATT-0012",
     "studentId": "STU-015",
     "date": "2026-07-11",
