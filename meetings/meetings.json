@@ -1,5 +1,18 @@
 [
   {
+    "id": "MEET-004",
+    "title": "__CORS_OWN__",
+    "link": "https://x.com",
+    "description": "",
+    "scheduledAt": null,
+    "instructorIds": [
+      "INS-007"
+    ],
+    "studentIds": [],
+    "createdBy": "INS-007",
+    "createdAt": "2026-07-11"
+  },
+  {
     "description": "",
     "scheduledAt": "2026-07-11T05:22:00.000Z",
     "instructorIds": [],
