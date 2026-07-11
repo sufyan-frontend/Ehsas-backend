@@ -8,8 +8,8 @@
   "stats": {
     "students": {
       "total": 15,
-      "active": 14,
-      "inactive": 1
+      "active": 15,
+      "inactive": 0
     },
     "instructors": {
       "total": 6,
@@ -213,7 +213,7 @@
       "fatherCnic": "0326387970984302",
       "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-015.jpg?v=1783748112185",
       "course": "website_development",
-      "status": "inactive",
+      "status": "active",
       "createdAt": "2026-07-11"
     }
   ],
