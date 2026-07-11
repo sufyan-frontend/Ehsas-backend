@@ -1,5 +1,20 @@
 [
   {
+    "id": "MEET-004",
+    "title": "designing session",
+    "link": "https://meet.google.com/uez-bgzn-zhb",
+    "description": "",
+    "scheduledAt": "2026-07-11T19:30:00.000Z",
+    "instructorIds": [
+      "INS-001"
+    ],
+    "studentIds": [
+      "STU-011"
+    ],
+    "createdBy": "INS-001",
+    "createdAt": "2026-07-11"
+  },
+  {
     "description": "",
     "scheduledAt": "2026-07-11T05:22:00.000Z",
     "instructorIds": [],
