@@ -7,9 +7,9 @@
   ],
   "stats": {
     "students": {
-      "total": 16,
+      "total": 15,
       "active": 15,
-      "inactive": 1
+      "inactive": 0
     },
     "instructors": {
       "total": 6,
@@ -217,19 +217,6 @@
       "status": "active",
       "createdAt": "2026-07-11",
       "access": "auto"
-    },
-    {
-      "id": "STU-016",
-      "username": "EL20216",
-      "pincode": "446960",
-      "name": "Zzz Statuscheck",
-      "fatherName": "F",
-      "phoneNumber": "+92-300-0000001",
-      "fatherCnic": "1-2-3",
-      "profileImage": null,
-      "course": "ui_ux_design",
-      "status": "inactive",
-      "createdAt": "2026-07-11"
     }
   ],
   "instructors": [
