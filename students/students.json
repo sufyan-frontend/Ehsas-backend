@@ -75,7 +75,8 @@
     "profileImage": null,
     "course": "ui_ux_design",
     "status": "active",
-    "createdAt": "2026-07-09"
+    "createdAt": "2026-07-09",
+    "access": "allow"
   },
   {
     "id": "STU-007",
