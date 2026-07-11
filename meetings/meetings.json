@@ -1,8 +1,5 @@
 [
   {
-    "id": "MEET-004",
-    "title": "__OWNTEST__",
-    "link": "https://x.com",
     "description": "",
     "scheduledAt": null,
     "instructorIds": [
@@ -10,6 +7,9 @@
     ],
     "studentIds": [],
     "createdBy": "INS-007",
+    "id": "MEET-004",
+    "title": "own-edit",
+    "link": "https://x.com",
     "createdAt": "2026-07-11"
   },
   {
