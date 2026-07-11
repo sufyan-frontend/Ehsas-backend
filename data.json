@@ -206,12 +206,12 @@
     {
       "id": "STU-015",
       "username": "EL20215",
-      "pincode": "123456",
+      "pincode": "516367",
       "name": "Muhammad  Farhan",
       "fatherName": "Ifthikhar",
-      "phoneNumber": "03477264505",
+      "phoneNumber": "03439315565",
       "fatherCnic": "0326387970984302",
-      "profileImage": null,
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-015.jpg?v=1783748112185",
       "course": "website_development",
       "status": "active",
       "createdAt": "2026-07-11"
