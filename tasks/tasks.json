@@ -1,5 +1,20 @@
 [
   {
+    "id": "TASK-002",
+    "instructorId": "INS-007",
+    "title": "Made a professtional landing page",
+    "description": "Using html tailwind css and java sccript",
+    "course": "website_development",
+    "image": null,
+    "dueDate": "2026-07-17",
+    "maxMarks": 10,
+    "status": "published",
+    "assignedStudentIds": [
+      "STU-015"
+    ],
+    "createdAt": "2026-07-11"
+  },
+  {
     "id": "TASK-001",
     "instructorId": "INS-001",
     "title": "Build a bear logo",
