@@ -1,11 +1,27 @@
 [
   {
+    "id": "ATT-0015",
+    "studentId": "STU-007",
+    "date": "2026-07-11",
+    "checkIn": "2026-07-11T06:40:45.087Z",
+    "checkOut": null,
+    "breaks": [],
+    "breakMinutes": 0,
+    "durationMinutes": null,
+    "status": "running",
+    "onBreak": false
+  },
+  {
     "id": "ATT-0014",
     "studentId": "STU-001",
     "date": "2026-07-11",
     "checkIn": "2026-07-11T05:49:26.501Z",
     "checkOut": null,
-    "durationMinutes": null
+    "durationMinutes": null,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "running",
+    "onBreak": false
   },
   {
     "id": "ATT-0013",
@@ -13,7 +29,11 @@
     "date": "2026-07-11",
     "checkIn": "2026-07-11T05:48:27.434Z",
     "checkOut": "2026-07-11T06:09:17.045Z",
-    "durationMinutes": 20
+    "durationMinutes": 20,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0012",
@@ -21,7 +41,11 @@
     "date": "2026-07-11",
     "checkIn": "2026-07-11T05:31:22.677Z",
     "checkOut": "2026-07-11T05:32:09.429Z",
-    "durationMinutes": 0
+    "durationMinutes": 0,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0011",
@@ -29,7 +53,11 @@
     "date": "2026-07-10",
     "checkIn": "2026-07-10T10:32:05.242Z",
     "checkOut": "2026-07-10T10:34:45.087Z",
-    "durationMinutes": 2
+    "durationMinutes": 2,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0010",
@@ -37,7 +65,11 @@
     "date": "2026-07-10",
     "checkIn": "2026-07-10T09:42:36.893Z",
     "checkOut": null,
-    "durationMinutes": null
+    "durationMinutes": null,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "running",
+    "onBreak": false
   },
   {
     "id": "ATT-0009",
@@ -45,7 +77,11 @@
     "date": "2026-07-10",
     "checkIn": "2026-07-10T09:41:34.680Z",
     "checkOut": "2026-07-10T09:41:52.370Z",
-    "durationMinutes": 0
+    "durationMinutes": 0,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0008",
@@ -53,7 +89,11 @@
     "date": "2026-07-09",
     "checkIn": "2026-07-09T15:39:48.910Z",
     "checkOut": "2026-07-09T15:40:02.586Z",
-    "durationMinutes": 0
+    "durationMinutes": 0,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0007",
@@ -61,7 +101,11 @@
     "date": "2026-07-09",
     "checkIn": "2026-07-09T11:22:02.103Z",
     "checkOut": "2026-07-09T15:17:44.555Z",
-    "durationMinutes": 235
+    "durationMinutes": 235,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0006",
@@ -69,7 +113,11 @@
     "date": "2026-07-09",
     "checkIn": "2026-07-09T01:20:25.717Z",
     "checkOut": "2026-07-09T15:33:24.018Z",
-    "durationMinutes": 852
+    "durationMinutes": 852,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0005",
@@ -77,7 +125,11 @@
     "date": "2026-07-09",
     "checkIn": "2026-07-09T01:15:08.402Z",
     "checkOut": "2026-07-09T15:34:56.509Z",
-    "durationMinutes": 859
+    "durationMinutes": 859,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0004",
@@ -85,7 +137,11 @@
     "date": "2026-07-07",
     "checkIn": "2026-07-07T17:13:21.362Z",
     "checkOut": "2026-07-07T17:13:30.818Z",
-    "durationMinutes": 0
+    "durationMinutes": 0,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0003",
@@ -93,7 +149,11 @@
     "date": "2026-06-30",
     "checkIn": "2026-06-30T09:08:58.222Z",
     "checkOut": "2026-06-30T09:09:09.941Z",
-    "durationMinutes": 0
+    "durationMinutes": 0,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0002",
@@ -101,7 +161,11 @@
     "date": "2026-06-29",
     "checkIn": "2026-06-29T12:07:50.106Z",
     "checkOut": "2026-06-29T12:08:17.088Z",
-    "durationMinutes": 0
+    "durationMinutes": 0,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   },
   {
     "id": "ATT-0001",
@@ -109,6 +173,10 @@
     "date": "2026-06-13",
     "checkIn": "2026-06-13T11:58:36.916Z",
     "checkOut": "2026-06-13T11:58:52.419Z",
-    "durationMinutes": 0
+    "durationMinutes": 0,
+    "breaks": [],
+    "breakMinutes": 0,
+    "status": "completed",
+    "onBreak": false
   }
 ]
