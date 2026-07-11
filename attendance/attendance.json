@@ -6,10 +6,15 @@
     "checkIn": "2026-07-11T05:49:26.501Z",
     "checkOut": null,
     "durationMinutes": null,
-    "breaks": [],
+    "breaks": [
+      {
+        "start": "2026-07-11T06:49:45.062Z",
+        "end": null
+      }
+    ],
     "breakMinutes": 0,
     "status": "running",
-    "onBreak": false
+    "onBreak": true
   },
   {
     "id": "ATT-0013",
