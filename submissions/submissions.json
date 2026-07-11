@@ -1,15 +1,15 @@
 [
   {
-    "status": "revision",
+    "status": "submitted",
     "stars": null,
-    "reviewedAt": "2026-07-11T05:25:55.670Z",
-    "feedback": "The designe is not good",
+    "reviewedAt": null,
+    "feedback": null,
     "id": "SUB-002",
     "taskId": "TASK-002",
     "studentId": "STU-015",
     "image": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/submissions/images/SUB-002.jpg?v=1783747521667",
-    "notes": "farhan mughal",
-    "submittedAt": "2026-07-11T05:25:20.899Z"
+    "notes": "farhan mughal my sir name sufyan",
+    "submittedAt": "2026-07-11T05:26:26.034Z"
   },
   {
     "status": "completed",
