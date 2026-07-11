@@ -4,8 +4,8 @@
     "studentId": "STU-015",
     "date": "2026-07-11",
     "checkIn": "2026-07-11T05:31:22.677Z",
-    "checkOut": null,
-    "durationMinutes": null
+    "checkOut": "2026-07-11T05:32:09.429Z",
+    "durationMinutes": 0
   },
   {
     "id": "ATT-0011",
