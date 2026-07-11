@@ -4,7 +4,7 @@
     "studentId": "STU-007",
     "date": "2026-07-11",
     "checkIn": "2026-07-11T09:11:30.637Z",
-    "checkOut": null,
+    "checkOut": "2026-07-11T09:12:15.812Z",
     "breaks": [
       {
         "start": "2026-07-11T09:11:55.527Z",
@@ -12,8 +12,8 @@
       }
     ],
     "breakMinutes": 0,
-    "durationMinutes": null,
-    "status": "running",
+    "durationMinutes": 0,
+    "status": "completed",
     "onBreak": false,
     "autoClosed": false
   },
