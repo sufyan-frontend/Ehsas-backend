@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 14,
-      "active": 14,
+      "total": 15,
+      "active": 15,
       "inactive": 0
     },
     "instructors": {
@@ -202,6 +202,19 @@
       "course": "ui_ux_design",
       "status": "active",
       "createdAt": "2026-07-10"
+    },
+    {
+      "id": "STU-015",
+      "username": "EL20215",
+      "pincode": "152290",
+      "name": "Muhammad  Farhan",
+      "fatherName": "Ifthikhar",
+      "phoneNumber": "03477264505",
+      "fatherCnic": "0326387970984302",
+      "profileImage": null,
+      "course": "website_development",
+      "status": "active",
+      "createdAt": "2026-07-11"
     }
   ],
   "instructors": [
