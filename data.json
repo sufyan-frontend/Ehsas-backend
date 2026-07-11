@@ -12,8 +12,8 @@
       "inactive": 0
     },
     "instructors": {
-      "total": 5,
-      "active": 5,
+      "total": 6,
+      "active": 6,
       "inactive": 0
     },
     "posts": {
@@ -272,6 +272,17 @@
       "role": "graphic_design",
       "status": "active",
       "createdAt": "2026-07-10"
+    },
+    {
+      "id": "INS-007",
+      "username": "muhammad007",
+      "pincode": "639892",
+      "name": "Muhammad Sufyan",
+      "phoneNumber": "03227479636",
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-007.jpg?v=1783747261512",
+      "role": "website_development",
+      "status": "active",
+      "createdAt": "2026-07-11"
     }
   ]
 }
