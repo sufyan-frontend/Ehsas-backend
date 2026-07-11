@@ -1,5 +1,17 @@
 [
   {
+    "id": "MEET-003",
+    "title": "Website Development Daily Meeting",
+    "link": "https://sufyan-frontend.vercel.app/",
+    "description": "",
+    "scheduledAt": "2026-07-11T05:22:00.000Z",
+    "instructorIds": [],
+    "studentIds": [
+      "STU-015"
+    ],
+    "createdAt": "2026-07-11"
+  },
+  {
     "description": "",
     "scheduledAt": null,
     "instructorIds": [
