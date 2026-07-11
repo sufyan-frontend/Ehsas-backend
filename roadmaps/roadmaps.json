@@ -1555,9 +1555,13 @@
         ]
       }
     ],
-    "progress": {},
+    "progress": {
+      "STU-001": {
+        "cd2dc2db": "submitted"
+      }
+    },
     "createdAt": "2026-07-10",
-    "updatedAt": "2026-07-10"
+    "updatedAt": "2026-07-11"
   },
   {
     "id": "ROAD-003",
