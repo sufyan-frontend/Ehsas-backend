@@ -271,7 +271,8 @@
     "title": "Shahzaib Ali",
     "duration": "custom",
     "assignedStudentIds": [
-      "STU-011"
+      "STU-011",
+      "STU-001"
     ],
     "weeks": [
       {
