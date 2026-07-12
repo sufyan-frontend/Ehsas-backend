@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "studentId": "STU-008",
+    "instructorId": "INS-004",
+    "assignedAt": "2026-07-12"
+  }
+]
