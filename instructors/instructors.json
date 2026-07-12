@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "INS-001",
+    "username": "muhammad001",
+    "pincode": "256632",
+    "name": "Muhammad Sufyan",
+    "phoneNumber": "6161422626233223",
+    "profileImage": null,
+    "role": "website_development",
+    "status": "active",
+    "createdAt": "2026-07-12"
+  }
+]
