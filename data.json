@@ -12,8 +12,8 @@
       "inactive": 0
     },
     "instructors": {
-      "total": 1,
-      "active": 1,
+      "total": 2,
+      "active": 2,
       "inactive": 0
     },
     "posts": {
@@ -44,6 +44,17 @@
       "phoneNumber": "6161422626233223",
       "profileImage": null,
       "role": "website_development",
+      "status": "active",
+      "createdAt": "2026-07-12"
+    },
+    {
+      "id": "INS-002",
+      "username": "samaha002",
+      "pincode": "925327",
+      "name": "Samaha",
+      "phoneNumber": "0300 34611946",
+      "profileImage": null,
+      "role": "graphic_design",
       "status": "active",
       "createdAt": "2026-07-12"
     }
