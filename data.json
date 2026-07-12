@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 2,
-      "active": 2,
+      "total": 3,
+      "active": 3,
       "inactive": 0
     },
     "instructors": {
@@ -42,6 +42,19 @@
       "fatherName": "Muhammad Shabbir",
       "phoneNumber": "+92 333 8872602",
       "fatherCnic": "34501-1932542-9",
+      "profileImage": null,
+      "course": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-12"
+    },
+    {
+      "id": "STU-003",
+      "username": "EL20203",
+      "pincode": "813347",
+      "name": "Muhammad Zeeshan",
+      "fatherName": "Amjad",
+      "phoneNumber": "+92 3433753793",
+      "fatherCnic": "34502-8917641-9",
       "profileImage": null,
       "course": "graphic_design",
       "status": "active",
