@@ -1,1 +1,0 @@
-Store instructor profile images here. Name them by instructor ID e.g. INS-001.jpg
