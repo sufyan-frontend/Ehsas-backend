@@ -1,9 +1,10 @@
 {
-    "city":  "Narowal",
-    "name":  "Administrator",
-    "profileImage":  null,
-    "password":  "Admin@1234",
-    "email":  "admin@ehsaslab.com",
-    "role":  "Admin",
-    "phoneNumber":  "+92 300 0000000"
+  "name": "Administrator",
+  "role": "Admin",
+  "username": "Admin@ehsaslab",
+  "password": "Admin@Ehsas@Lab@Like@Minded",
+  "email": "admin@ehsaslab.com",
+  "phoneNumber": "+92 300 0000000",
+  "city": "Narowal",
+  "profileImage": null
 }
