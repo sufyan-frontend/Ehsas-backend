@@ -1,5 +1,211 @@
 [
   {
+    "id": "ROAD-002",
+    "instructorId": "INS-004",
+    "title": "UI/UX Design – Level A2",
+    "duration": "3_months",
+    "assignedStudentIds": [
+      "STU-008"
+    ],
+    "weeks": [
+      {
+        "id": "f00a1ab2",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "15555f68",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "6f50e5fb",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "329493ea",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "61565b77",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "f5a59718",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "72c77fad",
+        "title": "Week 3",
+        "tasks": [
+          {
+            "id": "dfd420d0",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "2570987f",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "664b6b85",
+        "title": "Week 4",
+        "tasks": [
+          {
+            "id": "e04dbc07",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "67fec786",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "e77e51f2",
+        "title": "Week 5",
+        "tasks": [
+          {
+            "id": "bdeb7a5a",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "8b5abbff",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "809d5183",
+        "title": "Week 6",
+        "tasks": [
+          {
+            "id": "4bbd772a",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "2d75fcef",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "148ca65c",
+        "title": "Week 7",
+        "tasks": [
+          {
+            "id": "8519351e",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "edf1b3a0",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0f5b0321",
+        "title": "Week 8",
+        "tasks": [
+          {
+            "id": "5d5cb3d5",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "a8b00ebb",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a89f0769",
+        "title": "Week 9",
+        "tasks": [
+          {
+            "id": "57f4504b",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "61f432bd",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "c9f7f40d",
+        "title": "Week 10",
+        "tasks": [
+          {
+            "id": "9fb86ae5",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "c6a373b4",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f301193a",
+        "title": "Week 11",
+        "tasks": [
+          {
+            "id": "e5b7c1b9",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "642d5773",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f7c6cef1",
+        "title": "Week 12",
+        "tasks": [
+          {
+            "id": "0c72ee21",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "5263c6f1",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-12",
+    "updatedAt": "2026-07-12"
+  },
+  {
     "id": "ROAD-001",
     "instructorId": "INS-004",
     "title": "UI/UX Design – Level A1",
