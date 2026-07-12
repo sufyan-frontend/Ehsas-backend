@@ -24,5 +24,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-12"
+  },
+  {
+    "id": "STU-003",
+    "username": "EL20203",
+    "pincode": "813347",
+    "name": "Muhammad Zeeshan",
+    "fatherName": "Amjad",
+    "phoneNumber": "+92 3433753793",
+    "fatherCnic": "34502-8917641-9",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-12"
   }
 ]
