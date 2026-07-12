@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 3,
-      "active": 3,
+      "total": 4,
+      "active": 4,
       "inactive": 0
     },
     "instructors": {
@@ -55,6 +55,19 @@
       "fatherName": "Amjad",
       "phoneNumber": "+92 3433753793",
       "fatherCnic": "34502-8917641-9",
+      "profileImage": null,
+      "course": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-12"
+    },
+    {
+      "id": "STU-004",
+      "username": "EL20204",
+      "pincode": "475682",
+      "name": "Eman Shafiq",
+      "fatherName": "Muhammad Shafiq Bhatti",
+      "phoneNumber": "+92  3296622990",
+      "fatherCnic": "34104-8488986-0",
       "profileImage": null,
       "course": "graphic_design",
       "status": "active",
