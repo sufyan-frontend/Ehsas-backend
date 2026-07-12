@@ -1,5 +1,41 @@
 [
   {
+    "id": "ROAD-009",
+    "instructorId": "INS-001",
+    "title": "__LINKTEST__",
+    "duration": "custom",
+    "assignedStudentIds": [],
+    "weeks": [
+      {
+        "id": "e1940f21",
+        "title": "W1",
+        "tasks": [
+          {
+            "id": "e9576084",
+            "title": "Learn Flexbox",
+            "subtasks": [
+              {
+                "id": "5345de88",
+                "title": "Read https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+              },
+              {
+                "id": "e396ba53",
+                "title": "Figma: www.figma.com/file/abc123"
+              },
+              {
+                "id": "d5e5f75e",
+                "title": "Plain subtask with no link"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-12",
+    "updatedAt": "2026-07-12"
+  },
+  {
     "id": "ROAD-008",
     "instructorId": "INS-007",
     "title": "Learn Website development",
