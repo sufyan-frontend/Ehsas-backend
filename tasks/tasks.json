@@ -25,10 +25,7 @@
     "maxMarks": 100,
     "status": "published",
     "assignedStudentIds": [
-      "STU-001",
-      "STU-002",
-      "STU-005",
-      "STU-003"
+      "STU-011"
     ],
     "createdAt": "2026-07-08"
   }
