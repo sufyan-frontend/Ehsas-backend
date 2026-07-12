@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 0,
-      "active": 0,
+      "total": 1,
+      "active": 1,
       "inactive": 0
     },
     "instructors": {
@@ -20,6 +20,20 @@
       "total": 0
     }
   },
-  "students": [],
+  "students": [
+    {
+      "id": "STU-001",
+      "username": "EL20201",
+      "pincode": "167021",
+      "name": "Test Fresh",
+      "fatherName": "F",
+      "phoneNumber": "+92-300-0000000",
+      "fatherCnic": "1-2-3",
+      "profileImage": null,
+      "course": "ui_ux_design",
+      "status": "active",
+      "createdAt": "2026-07-12"
+    }
+  ],
   "instructors": []
 }
