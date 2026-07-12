@@ -11,5 +11,18 @@
     "course": "website_development",
     "status": "active",
     "createdAt": "2026-07-12"
+  },
+  {
+    "id": "STU-002",
+    "username": "EL20202",
+    "pincode": "990716",
+    "name": "Ayyan",
+    "fatherName": "Muhammad Shabbir",
+    "phoneNumber": "+92 333 8872602",
+    "fatherCnic": "34501-1932542-9",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-12"
   }
 ]
