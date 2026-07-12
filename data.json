@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 4,
-      "active": 4,
+      "total": 5,
+      "active": 5,
       "inactive": 0
     },
     "instructors": {
@@ -68,6 +68,19 @@
       "fatherName": "Muhammad Shafiq Bhatti",
       "phoneNumber": "+92  3296622990",
       "fatherCnic": "34104-8488986-0",
+      "profileImage": null,
+      "course": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-12"
+    },
+    {
+      "id": "STU-005",
+      "username": "EL20205",
+      "pincode": "159758",
+      "name": "Abdul Samad Ahad",
+      "fatherName": "Nisar Ahmad",
+      "phoneNumber": "+92 3420680337",
+      "fatherCnic": "34501-2236276-7",
       "profileImage": null,
       "course": "graphic_design",
       "status": "active",
