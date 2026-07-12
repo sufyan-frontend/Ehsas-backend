@@ -284,7 +284,9 @@
             "subtasks": [
               {
                 "id": "7c2be9fe",
-                "title": "Paracticle work"
+                "title": "Paracticle work",
+                "link": "https://sufyan-frontend.vercel.app/",
+                "linkLabel": "Watch Video"
               }
             ]
           },
@@ -1092,7 +1094,7 @@
       }
     },
     "createdAt": "2026-07-10",
-    "updatedAt": "2026-07-11"
+    "updatedAt": "2026-07-12"
   },
   {
     "id": "ROAD-005",
