@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 0,
-      "active": 0,
+      "total": 1,
+      "active": 1,
       "inactive": 0
     },
     "instructors": {
@@ -20,6 +20,20 @@
       "total": 0
     }
   },
-  "students": [],
+  "students": [
+    {
+      "id": "STU-001",
+      "username": "EL20201",
+      "pincode": "470752",
+      "name": "Muhammad Farhan",
+      "fatherName": "Iftikhar",
+      "phoneNumber": "0325987987897",
+      "fatherCnic": "5498798789987987",
+      "profileImage": null,
+      "course": "website_development",
+      "status": "active",
+      "createdAt": "2026-07-12"
+    }
+  ],
   "instructors": []
 }
