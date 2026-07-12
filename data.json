@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 1,
-      "active": 1,
+      "total": 2,
+      "active": 2,
       "inactive": 0
     },
     "instructors": {
@@ -31,6 +31,19 @@
       "fatherCnic": "5498798789987987",
       "profileImage": null,
       "course": "website_development",
+      "status": "active",
+      "createdAt": "2026-07-12"
+    },
+    {
+      "id": "STU-002",
+      "username": "EL20202",
+      "pincode": "990716",
+      "name": "Ayyan",
+      "fatherName": "Muhammad Shabbir",
+      "phoneNumber": "+92 333 8872602",
+      "fatherCnic": "34501-1932542-9",
+      "profileImage": null,
+      "course": "graphic_design",
       "status": "active",
       "createdAt": "2026-07-12"
     }
