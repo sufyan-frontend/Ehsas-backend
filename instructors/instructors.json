@@ -9,5 +9,16 @@
     "role": "website_development",
     "status": "active",
     "createdAt": "2026-07-12"
+  },
+  {
+    "id": "INS-002",
+    "username": "samaha002",
+    "pincode": "925327",
+    "name": "Samaha",
+    "phoneNumber": "0300 34611946",
+    "profileImage": null,
+    "role": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-12"
   }
 ]
