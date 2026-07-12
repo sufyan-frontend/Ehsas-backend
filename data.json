@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 7,
-      "active": 7,
+      "total": 8,
+      "active": 8,
       "inactive": 0
     },
     "instructors": {
@@ -107,6 +107,19 @@
       "fatherName": "Imtiaz Mehmood",
       "phoneNumber": "03009447187",
       "fatherCnic": "34501-3684050-9",
+      "profileImage": null,
+      "course": "ui_ux_design",
+      "status": "active",
+      "createdAt": "2026-07-12"
+    },
+    {
+      "id": "STU-008",
+      "username": "EL20208",
+      "pincode": "895235",
+      "name": "Aiza Faiz",
+      "fatherName": "Muhammad Abdullah",
+      "phoneNumber": "03175572023",
+      "fatherCnic": "37201-5870747-8",
       "profileImage": null,
       "course": "ui_ux_design",
       "status": "active",
