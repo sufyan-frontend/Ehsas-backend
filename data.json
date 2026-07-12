@@ -12,8 +12,8 @@
       "inactive": 0
     },
     "instructors": {
-      "total": 2,
-      "active": 2,
+      "total": 3,
+      "active": 3,
       "inactive": 0
     },
     "posts": {
@@ -53,6 +53,17 @@
       "pincode": "925327",
       "name": "Samaha",
       "phoneNumber": "0300 34611946",
+      "profileImage": null,
+      "role": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-12"
+    },
+    {
+      "id": "INS-003",
+      "username": "shazaib003",
+      "pincode": "942465",
+      "name": "Shazaib Ali",
+      "phoneNumber": "0349 6713926",
       "profileImage": null,
       "role": "graphic_design",
       "status": "active",
