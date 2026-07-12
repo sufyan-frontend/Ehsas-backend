@@ -37,5 +37,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-12"
+  },
+  {
+    "id": "STU-004",
+    "username": "EL20204",
+    "pincode": "475682",
+    "name": "Eman Shafiq",
+    "fatherName": "Muhammad Shafiq Bhatti",
+    "phoneNumber": "+92  3296622990",
+    "fatherCnic": "34104-8488986-0",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-12"
   }
 ]
