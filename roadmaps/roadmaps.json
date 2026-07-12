@@ -1,1 +1,208 @@
-[]
+[
+  {
+    "id": "ROAD-001",
+    "instructorId": "INS-004",
+    "title": "UI/UX Design – Level A1",
+    "duration": "3_months",
+    "assignedStudentIds": [
+      "STU-007"
+    ],
+    "weeks": [
+      {
+        "id": "6fd0be9a",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "fb9a2d15",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "202cb0ce",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a551f719",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "36e82a8e",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "c8198de8",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "22256f3e",
+        "title": "Week 3",
+        "tasks": [
+          {
+            "id": "e555d8d5",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "bb93e0d1",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "79c04be9",
+        "title": "Week 4",
+        "tasks": [
+          {
+            "id": "a6a0f39d",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "8b0dab89",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "75ab44b5",
+        "title": "Week 5",
+        "tasks": [
+          {
+            "id": "ae92e3bc",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "0b4a3c16",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "60ed4816",
+        "title": "Week 6",
+        "tasks": [
+          {
+            "id": "a9eddab8",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "f501dab2",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "69ca71f4",
+        "title": "Week 7",
+        "tasks": [
+          {
+            "id": "217b750c",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "1fee11c6",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ea6106a0",
+        "title": "Week 8",
+        "tasks": [
+          {
+            "id": "13cfb6e5",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "fe68d9a2",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "62d0cfc5",
+        "title": "Week 9",
+        "tasks": [
+          {
+            "id": "41420180",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "ef19245a",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "d63a728c",
+        "title": "Week 10",
+        "tasks": [
+          {
+            "id": "b9b38b80",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "e58e8497",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b5522711",
+        "title": "Week 11",
+        "tasks": [
+          {
+            "id": "12a5295d",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "b6e0dbcd",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b512eb39",
+        "title": "Week 12",
+        "tasks": [
+          {
+            "id": "995968b3",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "389779f2",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-12",
+    "updatedAt": "2026-07-12"
+  }
+]
