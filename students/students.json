@@ -76,5 +76,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-12"
+  },
+  {
+    "id": "STU-007",
+    "username": "EL20207",
+    "pincode": "464187",
+    "name": "Qamar Hussain",
+    "fatherName": "Imtiaz Mehmood",
+    "phoneNumber": "03009447187",
+    "fatherCnic": "34501-3684050-9",
+    "profileImage": null,
+    "course": "ui_ux_design",
+    "status": "active",
+    "createdAt": "2026-07-12"
   }
 ]
