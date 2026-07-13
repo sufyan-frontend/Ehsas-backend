@@ -14,11 +14,13 @@
         "tasks": [
           {
             "id": "15555f68",
-            "title": "Task 1",
+            "title": "LEARNING",
             "subtasks": [
               {
                 "id": "6f50e5fb",
-                "title": "Subtask 1"
+                "title": "Watch this complete video and also practice",
+                "link": "https://www.youtube.com/watch?v=truRwcI7-kg",
+                "linkLabel": "Watch Here"
               }
             ]
           }
