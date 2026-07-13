@@ -23,6 +23,16 @@
                 "linkLabel": "Watch Here"
               }
             ]
+          },
+          {
+            "id": "df52a963",
+            "title": "PRACTICE",
+            "subtasks": [
+              {
+                "id": "af9e9b8b",
+                "title": "Create an App of Food"
+              }
+            ]
           }
         ]
       },
