@@ -5,10 +5,16 @@
     "date": "2026-07-13",
     "checkIn": "2026-07-13T09:10:54.652Z",
     "checkOut": null,
-    "breaks": [],
+    "breaks": [
+      {
+        "start": "2026-07-13T09:11:48.820Z",
+        "end": null
+      }
+    ],
     "breakMinutes": 0,
     "durationMinutes": null,
     "status": "running",
-    "onBreak": false
+    "onBreak": true,
+    "autoClosed": false
   }
 ]
