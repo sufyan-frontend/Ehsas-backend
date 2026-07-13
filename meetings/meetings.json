@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "MEET-001",
+    "title": "UI/UX Designers' Daily Meeting",
+    "link": "https://meet.google.com/ewt-kpgq-fox",
+    "description": "",
+    "scheduledAt": null,
+    "instructorIds": [
+      "INS-004"
+    ],
+    "studentIds": [
+      "STU-008",
+      "STU-007"
+    ],
+    "createdBy": "admin",
+    "createdAt": "2026-07-13"
+  }
+]
