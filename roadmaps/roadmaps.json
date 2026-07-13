@@ -201,9 +201,13 @@
         ]
       }
     ],
-    "progress": {},
+    "progress": {
+      "STU-008": {
+        "6f50e5fb": "submitted"
+      }
+    },
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-07-12"
+    "updatedAt": "2026-07-13"
   },
   {
     "id": "ROAD-001",
