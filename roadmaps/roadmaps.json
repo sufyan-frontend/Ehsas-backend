@@ -1,5 +1,51 @@
 [
   {
+    "id": "ROAD-004",
+    "instructorId": "INS-003",
+    "title": "adfas",
+    "duration": "2_weeks",
+    "assignedStudentIds": [
+      "STU-001"
+    ],
+    "weeks": [
+      {
+        "id": "5aa1706c",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "085ebfb5",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "b813eb47",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f6ea12ad",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "470059a2",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "4d6c6050",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-14",
+    "updatedAt": "2026-07-14"
+  },
+  {
     "id": "ROAD-003",
     "instructorId": "INS-001",
     "title": "sadfdsfa",
