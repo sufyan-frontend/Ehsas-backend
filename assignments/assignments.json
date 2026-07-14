@@ -56,11 +56,6 @@
   },
   {
     "studentId": "STU-008",
-    "instructorId": "INS-002",
-    "assignedAt": "2026-07-14"
-  },
-  {
-    "studentId": "STU-008",
     "instructorId": "INS-003",
     "assignedAt": "2026-07-14"
   }
