@@ -1,5 +1,20 @@
 [
   {
+    "id": "TASK-002",
+    "instructorId": "INS-003",
+    "title": "dsafdsfdas",
+    "description": "adsfasdfadsfs",
+    "course": "website_development",
+    "image": null,
+    "dueDate": "2026-07-30",
+    "maxMarks": 10,
+    "status": "draft",
+    "assignedStudentIds": [
+      "STU-001"
+    ],
+    "createdAt": "2026-07-14"
+  },
+  {
     "id": "TASK-001",
     "instructorId": "INS-001",
     "title": "SOS",
