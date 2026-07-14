@@ -1,5 +1,51 @@
 [
   {
+    "id": "ROAD-003",
+    "instructorId": "INS-001",
+    "title": "sadfdsfa",
+    "duration": "2_weeks",
+    "assignedStudentIds": [
+      "STU-001"
+    ],
+    "weeks": [
+      {
+        "id": "da0126c3",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "4e193255",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "8185629a",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f7223b4f",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "af3f951b",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "a66edf51",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-14",
+    "updatedAt": "2026-07-14"
+  },
+  {
     "id": "ROAD-002",
     "instructorId": "INS-004",
     "title": "UI/UX Design – Level A2",
