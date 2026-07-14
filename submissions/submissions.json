@@ -12,10 +12,10 @@
     "submittedAt": "2026-07-14T23:36:45.243Z"
   },
   {
-    "status": "submitted",
-    "stars": null,
-    "reviewedAt": null,
-    "feedback": null,
+    "status": "completed",
+    "stars": 5,
+    "reviewedAt": "2026-07-14T23:37:13.144Z",
+    "feedback": "adsfdsfadsads",
     "id": "SUB-001",
     "taskId": "TASK-002",
     "studentId": "STU-001",
