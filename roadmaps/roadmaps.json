@@ -42,11 +42,51 @@
         "tasks": [
           {
             "id": "61565b77",
-            "title": "Task 1",
+            "title": "LEARNING",
             "subtasks": [
               {
                 "id": "f5a59718",
                 "title": "Subtask 1"
+              }
+            ]
+          },
+          {
+            "id": "90f97c85",
+            "title": "Practice",
+            "subtasks": [
+              {
+                "id": "e32a7a6b",
+                "title": "Subtask 1"
+              }
+            ]
+          },
+          {
+            "id": "12857c92",
+            "title": "PORTFOLIO",
+            "subtasks": [
+              {
+                "id": "4a344e51",
+                "title": "Website Portfolio Presentation 1",
+                "link": "https://www.behance.net/gallery/207798957/ZEN-Crypto-Website-UX-UI-Design",
+                "linkLabel": "Preview"
+              },
+              {
+                "id": "ab819efe",
+                "title": "Website Portfolio Presentation 2",
+                "link": "https://www.behance.net/gallery/215972145/SYNOX-SaaS-UX-UI-Design",
+                "linkLabel": "Preview"
+              },
+              {
+                "id": "bce061b2",
+                "title": "Website Portfolio Presentaton 3",
+                "link": "https://www.behance.net/gallery/237585701/UIUX-Design-for-Marketing-Agency-Website",
+                "linkLabel": "Preview"
+              },
+              {
+                "id": "e1f451b6",
+                "title": "Website Portfolio Presentation 4",
+                "link": "https://www.behance.net/gallery/235221521/KINETIC-SMM-STUDIO-WEBSITE",
+                "linkLabel": "Preview"
               }
             ]
           }
@@ -220,7 +260,7 @@
       }
     },
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-07-13"
+    "updatedAt": "2026-07-14"
   },
   {
     "id": "ROAD-001",
