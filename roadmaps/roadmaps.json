@@ -4,7 +4,9 @@
     "instructorId": "INS-005",
     "title": "Graphic Design with AI - Level A2",
     "duration": "3_months",
-    "assignedStudentIds": [],
+    "assignedStudentIds": [
+      "STU-010"
+    ],
     "weeks": [
       {
         "id": "e7ca5e96",
