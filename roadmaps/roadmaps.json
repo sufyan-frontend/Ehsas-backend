@@ -8,7 +8,7 @@
     "weeks": [
       {
         "id": "272c4820",
-        "title": "LEARNING",
+        "title": "Week 1",
         "tasks": [
           {
             "id": "4022404c",
@@ -72,6 +72,36 @@
                 "id": "84d54e72",
                 "title": "Class 10: Color Wheel in Illustrator",
                 "link": "https://youtu.be/CruC76dxpzk?si=bwPmQDspi-5O7Caz",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "b4e0d3b5",
+                "title": "Class 11:  Interaction of Colors in Design",
+                "link": "https://youtu.be/lnSND1KkeIU?si=k9wuoeuwr-3y_E0V",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "302737de",
+                "title": "Class 12:  4 Excellent Websites for Color Schemes",
+                "link": "https://youtu.be/f04NlECtVe8?si=fY2Z5uJ5oYnyU8cV",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "73b3601b",
+                "title": "Class 13:  Proximity in Design",
+                "link": "https://youtu.be/Bvf7sAEGrro?si=l-MdNNK3B7jtXF9x",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "1ae118b6",
+                "title": "Class 14: Alignment in Design",
+                "link": "https://youtu.be/m0dZNQBnLPQ?si=fBcm6-dVIxkUBynq",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "5db07687",
+                "title": "Class 15: Hierarchy, Leading & Alignment in Typography",
+                "link": "https://youtu.be/3KXCmKq8cgo?si=mebl5yrYAQ-tAb6S",
                 "linkLabel": "Watch"
               }
             ]
