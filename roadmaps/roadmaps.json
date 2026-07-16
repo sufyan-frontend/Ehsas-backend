@@ -1,5 +1,295 @@
 [
   {
+    "id": "ROAD-006",
+    "instructorId": "INS-005",
+    "title": "Graphic Design with AI - Level A2",
+    "duration": "3_months",
+    "assignedStudentIds": [],
+    "weeks": [
+      {
+        "id": "e7ca5e96",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "96d3fece",
+            "title": "Graphic Design Theory Mini Course",
+            "subtasks": [
+              {
+                "id": "81f9bd6b",
+                "title": "Class 1: Graphic Design Theory",
+                "link": "https://youtu.be/ssC8O2kWWWA?si=EaDJk0zNcVJ4xg1e",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "c897f69c",
+                "title": "Class 2: Visual Element LINE",
+                "link": "https://youtu.be/mxCY3SH346o?si=OTPvjIk6BTJG4Rcy",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "29b43b49",
+                "title": "Class 3:  Visual Element SHAPES",
+                "link": "https://youtu.be/ubImOqtVHF8?si=fVoYRHzZRdaK4lYN",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "1edc0013",
+                "title": "Class 4:  Visual Element TEXTURES",
+                "link": "https://youtu.be/fFXC5ufcUMU?si=RUtbl7F1DbRfFNUV",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "6ea65680",
+                "title": "Class 5:  Visual Element SPACE",
+                "link": "https://youtu.be/iYl4fp2aRt4?si=lHDQK6VdnfINA4IZ",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "864c3121",
+                "title": "Class 6:  Visual Element FORM",
+                "link": "https://youtu.be/pUtqVLLZFlo?si=9FnoAQT1UgilWx_h",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "48a6cfc7",
+                "title": "Class 7:  Symmetrical and Asymmetrical Balance",
+                "link": "https://youtu.be/YsvC75gjIrA?si=uxC3_fR0kMeBZqjJ",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "8c9aeafa",
+                "title": "Class 8:  Emphasis by Contrast",
+                "link": "https://youtu.be/NqhUAzLu2OU?si=Fca9Sa6S8VAA9RRv",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "9f2ccd49",
+                "title": "Class 9:  Rhythm in Design",
+                "link": "https://youtu.be/CDQvZ3hkhJg?si=hKla1i6J8s2snKF1",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "e5eb15a4",
+                "title": "Class 10: Color Wheel in Illustrator",
+                "link": "https://youtu.be/CruC76dxpzk?si=bwPmQDspi-5O7Caz",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "1b54cfa3",
+                "title": "Class 11:  Interaction of Colors in Design",
+                "link": "https://youtu.be/lnSND1KkeIU?si=k9wuoeuwr-3y_E0V",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "07e08cfe",
+                "title": "Class 12:  4 Excellent Websites for Color Schemes",
+                "link": "https://youtu.be/f04NlECtVe8?si=fY2Z5uJ5oYnyU8cV",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "a3f5fcfe",
+                "title": "Class 13:  Proximity in Design",
+                "link": "https://youtu.be/Bvf7sAEGrro?si=l-MdNNK3B7jtXF9x",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "a2e57c78",
+                "title": "Class 14: Alignment in Design",
+                "link": "https://youtu.be/m0dZNQBnLPQ?si=fBcm6-dVIxkUBynq",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "a6987ac8",
+                "title": "Class 15: Hierarchy, Leading & Alignment in Typography",
+                "link": "https://youtu.be/3KXCmKq8cgo?si=mebl5yrYAQ-tAb6S",
+                "linkLabel": "Watch"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cdfc8f75",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "a3995625",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "95d842c6",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1fa4203f",
+        "title": "Week 3",
+        "tasks": [
+          {
+            "id": "77a664f3",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "a7290533",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7c25b75a",
+        "title": "Week 4",
+        "tasks": [
+          {
+            "id": "47e5aabc",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "f9d7eb83",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7b30962b",
+        "title": "Week 5",
+        "tasks": [
+          {
+            "id": "db0dc376",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "4ece5ea0",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fe4adde9",
+        "title": "Week 6",
+        "tasks": [
+          {
+            "id": "1180b5b1",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "e0168d85",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "eb23065a",
+        "title": "Week 7",
+        "tasks": [
+          {
+            "id": "b8f85480",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "e76d5a30",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fc97573f",
+        "title": "Week 8",
+        "tasks": [
+          {
+            "id": "bc9a1a91",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "a989587d",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "731734bd",
+        "title": "Week 9",
+        "tasks": [
+          {
+            "id": "9aa1a8c7",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "01cc23f4",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16c4ae75",
+        "title": "Week 10",
+        "tasks": [
+          {
+            "id": "04dd11d3",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "7383511b",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "392f20df",
+        "title": "Week 11",
+        "tasks": [
+          {
+            "id": "3f1c87c0",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "9c148036",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f26dbbff",
+        "title": "Week 12",
+        "tasks": [
+          {
+            "id": "b511d458",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "ea7df73b",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-16",
+    "updatedAt": "2026-07-16"
+  },
+  {
     "id": "ROAD-005",
     "instructorId": "INS-004",
     "title": "Graphic Design with AI - Level A2",
