@@ -8,15 +8,17 @@
     "weeks": [
       {
         "id": "272c4820",
-        "title": "Week 1",
+        "title": "LEARNING",
         "tasks": [
           {
             "id": "4022404c",
-            "title": "Task 1",
+            "title": "Graphic Design Theory Mini Course",
             "subtasks": [
               {
                 "id": "da08c4b4",
-                "title": "Subtask 1"
+                "title": "Class 1: Graphic Design Theory",
+                "link": "https://youtu.be/ssC8O2kWWWA?si=EaDJk0zNcVJ4xg1e",
+                "linkLabel": "Watch"
               }
             ]
           }
