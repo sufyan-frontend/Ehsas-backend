@@ -12,8 +12,8 @@
       "inactive": 0
     },
     "instructors": {
-      "total": 4,
-      "active": 4,
+      "total": 5,
+      "active": 5,
       "inactive": 0
     },
     "posts": {
@@ -183,6 +183,17 @@
       "role": "ui_ux_design",
       "status": "active",
       "createdAt": "2026-07-12"
+    },
+    {
+      "id": "INS-005",
+      "username": "muhammad005",
+      "pincode": "343479",
+      "name": "Muhammad Hassam",
+      "phoneNumber": "03214565019",
+      "profileImage": null,
+      "role": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-16"
     }
   ]
 }
