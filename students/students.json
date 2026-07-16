@@ -115,5 +115,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-12"
+  },
+  {
+    "id": "STU-010",
+    "username": "EL20210",
+    "pincode": "136642",
+    "name": "Hassam Student",
+    "fatherName": "Testing",
+    "phoneNumber": "0321 4565019",
+    "fatherCnic": "3450131810017",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-16"
   }
 ]
