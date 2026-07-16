@@ -1,5 +1,209 @@
 [
   {
+    "id": "ROAD-005",
+    "instructorId": "INS-004",
+    "title": "Graphic Design with AI - Level A2",
+    "duration": "3_months",
+    "assignedStudentIds": [],
+    "weeks": [
+      {
+        "id": "272c4820",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "4022404c",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "da08c4b4",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "27c1c114",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "ac976044",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "0e2e03dd",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "acb5ebd8",
+        "title": "Week 3",
+        "tasks": [
+          {
+            "id": "05373642",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "80821e21",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7b8580e3",
+        "title": "Week 4",
+        "tasks": [
+          {
+            "id": "05ec8fc2",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "cf2b93f5",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "84dbebb1",
+        "title": "Week 5",
+        "tasks": [
+          {
+            "id": "fd5fa46a",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "5ead79a9",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "faade7dc",
+        "title": "Week 6",
+        "tasks": [
+          {
+            "id": "d3ec7c60",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "0a8485fc",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "21326cce",
+        "title": "Week 7",
+        "tasks": [
+          {
+            "id": "378babad",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "16aecb37",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3adbc47f",
+        "title": "Week 8",
+        "tasks": [
+          {
+            "id": "33a6e2a6",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "c959265b",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16005245",
+        "title": "Week 9",
+        "tasks": [
+          {
+            "id": "710e5431",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "fea6d3e5",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a994b48",
+        "title": "Week 10",
+        "tasks": [
+          {
+            "id": "e5b13bea",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "ece2126c",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8e12afd4",
+        "title": "Week 11",
+        "tasks": [
+          {
+            "id": "31b8168c",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "436f2f44",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a3a60742",
+        "title": "Week 12",
+        "tasks": [
+          {
+            "id": "c3befa02",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "145f7188",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-16",
+    "updatedAt": "2026-07-16"
+  },
+  {
     "id": "ROAD-004",
     "instructorId": "INS-003",
     "title": "adfas",
