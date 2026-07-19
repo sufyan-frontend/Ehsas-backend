@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 10,
-      "active": 10,
+      "total": 11,
+      "active": 11,
       "inactive": 0
     },
     "instructors": {
@@ -150,6 +150,19 @@
       "course": "graphic_design",
       "status": "active",
       "createdAt": "2026-07-16"
+    },
+    {
+      "id": "STU-011",
+      "username": "EL20211",
+      "pincode": "715437",
+      "name": "Kashif Ali",
+      "fatherName": "Father Name",
+      "phoneNumber": "03xx xxxx xxx",
+      "fatherCnic": "xxxxx-xxxxxxx-x",
+      "profileImage": null,
+      "course": "graphic_design",
+      "status": "active",
+      "createdAt": "2026-07-19"
     }
   ],
   "instructors": [
