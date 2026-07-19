@@ -5,7 +5,8 @@
     "title": "Graphic Design with AI - Level A2",
     "duration": "3_months",
     "assignedStudentIds": [
-      "STU-010"
+      "STU-010",
+      "STU-011"
     ],
     "weeks": [
       {
@@ -289,7 +290,7 @@
     ],
     "progress": {},
     "createdAt": "2026-07-16",
-    "updatedAt": "2026-07-16"
+    "updatedAt": "2026-07-19"
   },
   {
     "id": "ROAD-005",
