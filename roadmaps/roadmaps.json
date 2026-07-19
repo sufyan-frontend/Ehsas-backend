@@ -118,6 +118,34 @@
                 "title": "Topic: 15 Tips & Tricks in Adobe Illustrator"
               }
             ]
+          },
+          {
+            "id": "7de7434a",
+            "title": "Social Media Account Setup",
+            "subtasks": [
+              {
+                "id": "20318afe",
+                "title": "Facebook"
+              },
+              {
+                "id": "910b3023",
+                "title": "Instagram"
+              },
+              {
+                "id": "5a2b970c",
+                "title": "Linkedin"
+              }
+            ]
+          },
+          {
+            "id": "02837f2d",
+            "title": "Weekly Progress Published in EhsasLab FB Community?",
+            "subtasks": [
+              {
+                "id": "d004bcfb",
+                "title": "If yes, mark it :)"
+              }
+            ]
           }
         ]
       },
