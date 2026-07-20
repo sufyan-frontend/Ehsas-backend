@@ -810,6 +810,18 @@
                 "linkLabel": "Preview"
               }
             ]
+          },
+          {
+            "id": "46e62306",
+            "title": "Figma AI Course",
+            "subtasks": [
+              {
+                "id": "4221b4c2",
+                "title": "Figma AI Course",
+                "link": "https://youtu.be/tBK4pmNUoBc?si=tSfyiyxFTZ50zsGT",
+                "linkLabel": "Watch"
+              }
+            ]
           }
         ]
       },
@@ -981,7 +993,7 @@
       }
     },
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-07-14"
+    "updatedAt": "2026-07-20"
   },
   {
     "id": "ROAD-001",
