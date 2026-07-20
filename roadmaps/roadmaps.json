@@ -1087,6 +1087,28 @@
                 "linkLabel": "Watch"
               }
             ]
+          },
+          {
+            "id": "67884fcd",
+            "title": "Task 2",
+            "subtasks": [
+              {
+                "id": "5368c096",
+                "title": "Subtask 1"
+              }
+            ]
+          },
+          {
+            "id": "32d49ef1",
+            "title": "Prototype Tips & Tricks",
+            "subtasks": [
+              {
+                "id": "8fd8ca75",
+                "title": "Prototype while you design",
+                "link": "https://youtube.com/playlist?list=PLXDU_eVOJTx7aqRW3Skp1aRT9ktC3ctqA&si=yXs9MOicrL4D-QZZ",
+                "linkLabel": "Watch"
+              }
+            ]
           }
         ]
       },
