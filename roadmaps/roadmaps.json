@@ -998,11 +998,11 @@
         "tasks": [
           {
             "id": "fb9a2d15",
-            "title": "Task 1",
+            "title": "Practice Project",
             "subtasks": [
               {
                 "id": "202cb0ce",
-                "title": "Subtask 1"
+                "title": "Travel Website Design in Figma"
               }
             ]
           }
@@ -1078,11 +1078,13 @@
         "tasks": [
           {
             "id": "a9eddab8",
-            "title": "Task 1",
+            "title": "Practice Project",
             "subtasks": [
               {
                 "id": "f501dab2",
-                "title": "Subtask 1"
+                "title": "Travel Website Design in Figma",
+                "link": "https://youtu.be/zH8l-E3GLYE?si=LxecA573ApQYsYd8",
+                "linkLabel": "Watch"
               }
             ]
           }
@@ -1094,7 +1096,7 @@
         "tasks": [
           {
             "id": "217b750c",
-            "title": "Task 1",
+            "title": "Practice Project",
             "subtasks": [
               {
                 "id": "1fee11c6",
@@ -1187,6 +1189,6 @@
     ],
     "progress": {},
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-07-12"
+    "updatedAt": "2026-07-20"
   }
 ]
