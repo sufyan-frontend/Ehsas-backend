@@ -1090,11 +1090,25 @@
           },
           {
             "id": "67884fcd",
-            "title": "Task 2",
+            "title": "FigJam Course",
             "subtasks": [
               {
                 "id": "5368c096",
-                "title": "Subtask 1"
+                "title": "Lec 1: Simplest FigJam",
+                "link": "https://youtu.be/pRF008KjSBI?si=LO7WTp30tgLtREgr",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "8e3253a9",
+                "title": "Lec 2: FigJam Tools & Features",
+                "link": "https://youtu.be/Axj21sPVSGg?si=9daA0npqv5buHSo7",
+                "linkLabel": "Watch"
+              },
+              {
+                "id": "b871e2c0",
+                "title": "Lec 3:  3D prototyping in FigJam",
+                "link": "https://youtu.be/ao702_PIRpE?si=fe-W5jNrmocwFi_b",
+                "linkLabel": "Watch"
               }
             ]
           },
