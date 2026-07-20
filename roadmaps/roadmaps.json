@@ -1109,6 +1109,12 @@
                 "title": "Lec 3:  3D prototyping in FigJam",
                 "link": "https://youtu.be/ao702_PIRpE?si=fe-W5jNrmocwFi_b",
                 "linkLabel": "Watch"
+              },
+              {
+                "id": "1d4f0d49",
+                "title": "Lec 4: FigJam Classroom Basics",
+                "link": "https://youtube.com/playlist?list=PLXDU_eVOJTx6FXYNkD5cMJXOng8D15m8R&si=uVxj5gp_Ya_heLoX",
+                "linkLabel": "Watch"
               }
             ]
           },
@@ -1121,6 +1127,16 @@
                 "title": "Prototype while you design",
                 "link": "https://youtube.com/playlist?list=PLXDU_eVOJTx7aqRW3Skp1aRT9ktC3ctqA&si=yXs9MOicrL4D-QZZ",
                 "linkLabel": "Watch"
+              }
+            ]
+          },
+          {
+            "id": "65aa878b",
+            "title": "Weekly Practice Publish in FB Community",
+            "subtasks": [
+              {
+                "id": "23a8e51e",
+                "title": "If you published then mark it complete :)"
               }
             ]
           }
