@@ -822,6 +822,18 @@
                 "linkLabel": "Watch"
               }
             ]
+          },
+          {
+            "id": "28ecd034",
+            "title": "Figma AI",
+            "subtasks": [
+              {
+                "id": "97c2f391",
+                "title": "Go through this complete list and learn how AI helping in Figma",
+                "link": "https://youtube.com/playlist?list=PLXDU_eVOJTx4Pgx4xbnJ8dtOatH-AkAk7&si=jWtac2pLCp66vFgd",
+                "linkLabel": "Watch"
+              }
+            ]
           }
         ]
       },
