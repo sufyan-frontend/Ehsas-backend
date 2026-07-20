@@ -1187,7 +1187,11 @@
         ]
       }
     ],
-    "progress": {},
+    "progress": {
+      "STU-007": {
+        "c8198de8": "completed"
+      }
+    },
     "createdAt": "2026-07-12",
     "updatedAt": "2026-07-20"
   }
