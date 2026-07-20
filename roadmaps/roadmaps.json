@@ -146,6 +146,18 @@
                 "title": "If yes, mark it :)"
               }
             ]
+          },
+          {
+            "id": "bb655132",
+            "title": "Practice Project",
+            "subtasks": [
+              {
+                "id": "6cc11726",
+                "title": "Linkedin Banner Design",
+                "link": "https://drive.google.com/drive/folders/106uDEurJAtobCFwxNoEz6K9QffQjV7jf?usp=sharing",
+                "linkLabel": "Resources"
+              }
+            ]
           }
         ]
       },
