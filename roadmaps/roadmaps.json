@@ -1,5 +1,83 @@
 [
   {
+    "id": "ROAD-007",
+    "instructorId": "INS-002",
+    "title": "A1-Graphic Design RoadMap-2026",
+    "duration": "1_month",
+    "assignedStudentIds": [],
+    "weeks": [
+      {
+        "id": "046facaa",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "3fbd3e69",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "4c4f2a7f",
+                "title": "Subtask 1",
+                "link": "https://youtube.com/playlist?list=PLW-zSkCnZ-gCq0DjkzY-YapCBEk0lA6lR&si=sB5aaua1zajlznKK",
+                "linkLabel": "GFX Mentor Playlist"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "59295dd8",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "ce2bcdfd",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "ce1e493c",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2d8ab7d8",
+        "title": "Week 3",
+        "tasks": [
+          {
+            "id": "af9b76b0",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "f29a049f",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "40aa1dc2",
+        "title": "Week 4",
+        "tasks": [
+          {
+            "id": "305c4367",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "148bf439",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-07-26",
+    "updatedAt": "2026-07-26"
+  },
+  {
     "id": "ROAD-006",
     "instructorId": "INS-005",
     "title": "Graphic Design with AI - Level A2",
