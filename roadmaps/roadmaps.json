@@ -4,7 +4,14 @@
     "instructorId": "INS-002",
     "title": "A1-Graphic Design RoadMap-2026",
     "duration": "1_month",
-    "assignedStudentIds": [],
+    "assignedStudentIds": [
+      "STU-009",
+      "STU-006",
+      "STU-005",
+      "STU-004",
+      "STU-003",
+      "STU-002"
+    ],
     "weeks": [
       {
         "id": "046facaa",
