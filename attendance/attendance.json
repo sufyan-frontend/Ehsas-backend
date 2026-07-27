@@ -1,9 +1,9 @@
 [
   {
-    "id": "ATT-0002",
-    "studentId": "STU-007",
-    "date": "2026-07-13",
-    "checkIn": "2026-07-13T09:35:50.045Z",
+    "id": "ATT-0003",
+    "studentId": "STU-012",
+    "date": "2026-07-27",
+    "checkIn": "2026-07-27T15:38:16.908Z",
     "checkOut": null,
     "breaks": [],
     "breakMinutes": 0,
@@ -12,21 +12,34 @@
     "onBreak": false
   },
   {
+    "id": "ATT-0002",
+    "studentId": "STU-007",
+    "date": "2026-07-13",
+    "checkIn": "2026-07-13T09:35:50.045Z",
+    "checkOut": "2026-07-13T23:59:59.999Z",
+    "breaks": [],
+    "breakMinutes": 0,
+    "durationMinutes": 864,
+    "status": "completed",
+    "onBreak": false,
+    "autoClosed": true
+  },
+  {
     "id": "ATT-0001",
     "studentId": "STU-008",
     "date": "2026-07-13",
     "checkIn": "2026-07-13T09:10:54.652Z",
-    "checkOut": null,
+    "checkOut": "2026-07-13T23:59:59.999Z",
     "breaks": [
       {
         "start": "2026-07-13T09:11:48.820Z",
-        "end": null
+        "end": "2026-07-13T23:59:59.999Z"
       }
     ],
-    "breakMinutes": 24,
-    "durationMinutes": null,
-    "status": "running",
-    "onBreak": true,
-    "autoClosed": false
+    "breakMinutes": 888,
+    "durationMinutes": 1,
+    "status": "completed",
+    "onBreak": false,
+    "autoClosed": true
   }
 ]
