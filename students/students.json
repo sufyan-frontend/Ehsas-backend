@@ -115,5 +115,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-19"
+  },
+  {
+    "id": "STU-012",
+    "username": "EL20212",
+    "pincode": "287751",
+    "name": "Burhan",
+    "fatherName": "Ishaq",
+    "phoneNumber": "03214565019",
+    "fatherCnic": "3450131810017",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-27"
   }
 ]
