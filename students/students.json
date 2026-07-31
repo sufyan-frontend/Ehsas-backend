@@ -141,5 +141,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-31"
+  },
+  {
+    "id": "STU-014",
+    "username": "EL20214",
+    "pincode": "521810",
+    "name": "Afif",
+    "fatherName": "Father Name",
+    "phoneNumber": "03027672566",
+    "fatherCnic": "xxxxx-xxxxxxx-x",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-31"
   }
 ]
