@@ -128,5 +128,18 @@
     "course": "graphic_design",
     "status": "active",
     "createdAt": "2026-07-27"
+  },
+  {
+    "id": "STU-013",
+    "username": "EL20213",
+    "pincode": "458406",
+    "name": "Ahmad Sheraz",
+    "fatherName": "Father Name",
+    "phoneNumber": "03187802664",
+    "fatherCnic": "xxxxx-xxxxxxx-x",
+    "profileImage": null,
+    "course": "graphic_design",
+    "status": "active",
+    "createdAt": "2026-07-31"
   }
 ]
