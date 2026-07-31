@@ -1484,6 +1484,30 @@
                 "title": "If you published then mark it complete :)"
               }
             ]
+          },
+          {
+            "id": "9b70401a",
+            "title": "Weekly Projects",
+            "subtasks": [
+              {
+                "id": "58f26ffa",
+                "title": "Basic User Flow Diagram",
+                "link": "https://docs.google.com/document/d/1dbs2vzxvy25KWYt12thN-JsXllXCoxGFkJoOKXgOjRg/edit?tab=t.0",
+                "linkLabel": "Project Brief"
+              },
+              {
+                "id": "cec8feba",
+                "title": "E-Commerce Flow with Branching Logic",
+                "link": "https://docs.google.com/document/d/1dbs2vzxvy25KWYt12thN-JsXllXCoxGFkJoOKXgOjRg/edit?tab=t.whbudm5wtc6l",
+                "linkLabel": "Project Brief"
+              },
+              {
+                "id": "fbca482a",
+                "title": "Local Vendor Finder App ( Flow & Wireframe )",
+                "link": "https://docs.google.com/document/d/1dbs2vzxvy25KWYt12thN-JsXllXCoxGFkJoOKXgOjRg/edit?tab=t.6jvbai52aebq",
+                "linkLabel": "Project Brief"
+              }
+            ]
           }
         ]
       },
@@ -1600,6 +1624,6 @@
       }
     },
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-07-29"
+    "updatedAt": "2026-07-31"
   }
 ]
