@@ -1,5 +1,38 @@
 [
   {
+    "id": "ROAD-009",
+    "instructorId": "INS-005",
+    "title": "__TEST__ admin created",
+    "duration": "2_weeks",
+    "assignedStudentIds": [
+      "STU-014"
+    ],
+    "weeks": [
+      {
+        "id": "1d3ee11d",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "c824da12",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "e4ad06d8",
+                "title": "Sub 1",
+                "link": "https://figma.com/file/x",
+                "linkLabel": "Open Figma",
+                "description": "Do this first, then share a screenshot."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-08-06",
+    "updatedAt": "2026-08-06"
+  },
+  {
     "id": "ROAD-008",
     "instructorId": "INS-005",
     "title": "Roadmap After Tools",
