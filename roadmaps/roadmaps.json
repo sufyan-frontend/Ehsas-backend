@@ -2,7 +2,7 @@
   {
     "id": "ROAD-009",
     "instructorId": "INS-005",
-    "title": "__TEST__ admin created",
+    "title": "__TEST__ edited by instructor",
     "duration": "2_weeks",
     "assignedStudentIds": [
       "STU-014"
