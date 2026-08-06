@@ -8,7 +8,13 @@
     "profileImage": null,
     "role": "website_development",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "courses": [
+      {
+        "course": "website_development",
+        "levels": []
+      }
+    ]
   },
   {
     "id": "INS-002",
@@ -19,7 +25,13 @@
     "profileImage": null,
     "role": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "courses": [
+      {
+        "course": "graphic_design",
+        "levels": []
+      }
+    ]
   },
   {
     "id": "INS-003",
@@ -30,7 +42,13 @@
     "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-003.jpg?v=1783942010138",
     "role": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "courses": [
+      {
+        "course": "graphic_design",
+        "levels": []
+      }
+    ]
   },
   {
     "id": "INS-004",
@@ -41,7 +59,13 @@
     "profileImage": null,
     "role": "ui_ux_design",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "courses": [
+      {
+        "course": "ui_ux_design",
+        "levels": []
+      }
+    ]
   },
   {
     "id": "INS-005",
@@ -52,6 +76,21 @@
     "profileImage": null,
     "role": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-16"
+    "createdAt": "2026-07-16",
+    "courses": [
+      {
+        "course": "graphic_design",
+        "levels": [
+          "A1",
+          "A2"
+        ]
+      },
+      {
+        "course": "video_editing",
+        "levels": [
+          "A3"
+        ]
+      }
+    ]
   }
 ]
