@@ -1484,7 +1484,9 @@
             "subtasks": [
               {
                 "id": "23a8e51e",
-                "title": "If you published then mark it complete :)"
+                "title": "If you published then mark it complete :)",
+                "link": "https://docs.google.com/document/d/1l9FfBXkendN5FrIHk3yQbpphPbI84H1yYRqCCQBzjj8/edit?usp=sharing%20%20%20Hello%20There,%20%20I%20just%20noticed%20ap%20log%20community%20main%20jo%20post%20krte%20hain%20apne%20practice%20ki%20ab%20se%20ap%20log%20is%20main%20explain%20format%20publish%20krain%20till%20you%20are%20in%20training%20process.%20%20%20Follow%20this%20format%20if%20you%20will%20not%20follow%20you%20community%20post%20will%20be%20removed.%20%20%20opr%20format%20he%20neechy%20kaisy%20use%20krna%20wo%20b%20explain%20kr%20dia%20gia%20he.%20%20Agr%20kisi%20ka%20koi%20question%20ho%20apne%20group%20main%20drop%20main%20kr%20k%20poosh%20lijieye%20ga.%20%20%20Thanks,",
+                "linkLabel": "Here's How"
               }
             ]
           },
@@ -1630,6 +1632,6 @@
       }
     },
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 ]
