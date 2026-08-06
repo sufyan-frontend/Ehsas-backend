@@ -10,7 +10,8 @@
     "profileImage": null,
     "course": "website_development",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "level": "A1"
   },
   {
     "id": "STU-002",
@@ -23,7 +24,8 @@
     "profileImage": null,
     "course": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "level": "A1"
   },
   {
     "id": "STU-005",
@@ -36,7 +38,8 @@
     "profileImage": null,
     "course": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "level": "A1"
   },
   {
     "id": "STU-006",
@@ -49,7 +52,8 @@
     "profileImage": null,
     "course": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "level": "A1"
   },
   {
     "id": "STU-007",
@@ -62,7 +66,8 @@
     "profileImage": null,
     "course": "ui_ux_design",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "level": "A1"
   },
   {
     "id": "STU-008",
@@ -75,7 +80,8 @@
     "profileImage": null,
     "course": "ui_ux_design",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "level": "A1"
   },
   {
     "id": "STU-009",
@@ -88,7 +94,8 @@
     "profileImage": null,
     "course": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-12"
+    "createdAt": "2026-07-12",
+    "level": "A1"
   },
   {
     "id": "STU-010",
@@ -101,7 +108,8 @@
     "profileImage": null,
     "course": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-16"
+    "createdAt": "2026-07-16",
+    "level": "A1"
   },
   {
     "id": "STU-011",
@@ -114,7 +122,8 @@
     "profileImage": null,
     "course": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-19"
+    "createdAt": "2026-07-19",
+    "level": "A1"
   },
   {
     "id": "STU-012",
@@ -127,7 +136,8 @@
     "profileImage": null,
     "course": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-27"
+    "createdAt": "2026-07-27",
+    "level": "A1"
   },
   {
     "id": "STU-013",
@@ -140,7 +150,8 @@
     "profileImage": null,
     "course": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-31"
+    "createdAt": "2026-07-31",
+    "level": "A1"
   },
   {
     "id": "STU-014",
@@ -153,6 +164,7 @@
     "profileImage": null,
     "course": "graphic_design",
     "status": "active",
-    "createdAt": "2026-07-31"
+    "createdAt": "2026-07-31",
+    "level": "A3"
   }
 ]
