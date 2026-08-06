@@ -272,16 +272,7 @@
       "courses": [
         {
           "course": "graphic_design",
-          "levels": [
-            "A1",
-            "A2"
-          ]
-        },
-        {
-          "course": "video_editing",
-          "levels": [
-            "A3"
-          ]
+          "levels": []
         }
       ]
     }
