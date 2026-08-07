@@ -260,11 +260,13 @@
         "tasks": [
           {
             "id": "ce2bcdfd",
-            "title": "Task 1",
+            "title": "LEARNING",
             "subtasks": [
               {
                 "id": "ce1e493c",
-                "title": "Subtask 1"
+                "title": "Lec: 2: Direct Selection tool",
+                "link": "https://youtu.be/lW6dvZOOXlo?si=CNRGJy2etFfea4oD",
+                "linkLabel": "Watch"
               }
             ]
           }
