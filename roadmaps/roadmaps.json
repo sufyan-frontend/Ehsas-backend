@@ -1676,11 +1676,31 @@
         "tasks": [
           {
             "id": "217b750c",
-            "title": "Practice Project",
+            "title": "LEARNING",
             "subtasks": [
               {
                 "id": "1fee11c6",
-                "title": "Subtask 1"
+                "title": "Figma Advance Course",
+                "link": "https://youtu.be/Od7AfBvBwWo?si=Zq7Y9GA1EasNW1TI",
+                "linkLabel": "Access course"
+              }
+            ]
+          },
+          {
+            "id": "a62ee6ac",
+            "title": "PRACTICE",
+            "subtasks": [
+              {
+                "id": "46eda045",
+                "title": "Create clone of this website",
+                "link": "https://www.behance.net/gallery/187633463/Developer-Portfolio-Design",
+                "linkLabel": "Resources"
+              },
+              {
+                "id": "1be4649b",
+                "title": "Create clone of this website",
+                "link": "https://www.behance.net/gallery/246667163/Upper-Echelon-Visuals-Real-Estate-Media-Web-UI",
+                "linkLabel": "Resources"
               }
             ]
           }
@@ -1787,6 +1807,6 @@
       }
     },
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-09"
   }
 ]
