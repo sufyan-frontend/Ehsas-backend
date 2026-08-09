@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "SESS-001",
+    "title": "sdfadfs",
+    "type": "assignment",
+    "date": "2026-08-09",
+    "startTime": "12:55",
+    "endTime": "13:00",
+    "description": "sadfdsfadsfdasdsaf",
+    "link": "https://sufyan-frontend.vercel.app/",
+    "assignedStudentIds": [
+      "STU-014"
+    ],
+    "assignedInstructorIds": [
+      "INS-003"
+    ],
+    "createdBy": "admin",
+    "createdByName": "Administrator",
+    "createdAt": "2026-08-09T07:50:13.732Z",
+    "updatedAt": "2026-08-09T07:50:13.732Z"
+  }
+]
