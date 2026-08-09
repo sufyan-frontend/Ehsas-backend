@@ -1,12 +1,12 @@
 [
   {
     "id": "SESS-001",
-    "title": "__TEST__ CS610 Quiz No. 3",
+    "title": "__TEST__ edited by instructor",
     "type": "quiz",
     "date": "2026-08-12",
     "startTime": "10:00",
     "endTime": "11:00",
-    "description": "Chapters 5-8",
+    "description": "Chapters 5-9 now",
     "link": "https://meet.google.com/abc",
     "assignedStudentIds": [
       "STU-014"
@@ -17,6 +17,6 @@
     "createdBy": "admin",
     "createdByName": "Administrator",
     "createdAt": "2026-08-09T07:31:43.671Z",
-    "updatedAt": "2026-08-09T07:31:43.671Z"
+    "updatedAt": "2026-08-09T07:32:29.296Z"
   }
 ]
