@@ -613,10 +613,22 @@
         "tasks": [
           {
             "id": "a3995625",
-            "title": "Task 1",
+            "title": "Urdu Designing Course",
             "subtasks": [
               {
                 "id": "95d842c6",
+                "title": "13 Videos",
+                "link": "https://youtube.com/playlist?list=PLJ-5GSKkjKCYBG7M2ch5xC30JEPbdIe1r&si=3nDfqrYHrvCxvMbD",
+                "linkLabel": "Watch"
+              }
+            ]
+          },
+          {
+            "id": "67e64450",
+            "title": "PRACTICE",
+            "subtasks": [
+              {
+                "id": "087a4593",
                 "title": "Subtask 1"
               }
             ]
@@ -806,7 +818,7 @@
       }
     },
     "createdAt": "2026-07-16",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-10"
   },
   {
     "id": "ROAD-005",
