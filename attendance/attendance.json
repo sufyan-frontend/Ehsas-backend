@@ -1,5 +1,17 @@
 [
   {
+    "id": "ATT-0008",
+    "studentId": "STU-007",
+    "date": "2026-08-11",
+    "checkIn": "2026-08-11T08:49:08.836Z",
+    "checkOut": null,
+    "breaks": [],
+    "breakMinutes": 0,
+    "durationMinutes": null,
+    "status": "running",
+    "onBreak": false
+  },
+  {
     "id": "ATT-0007",
     "studentId": "STU-014",
     "date": "2026-08-09",
