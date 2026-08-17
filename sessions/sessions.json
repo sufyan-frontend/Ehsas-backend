@@ -1,5 +1,40 @@
 [
   {
+    "id": "SESS-003",
+    "title": "Why People Fear Failure and How to Overcome It",
+    "type": "class",
+    "date": "2026-08-19",
+    "startTime": "15:00",
+    "endTime": "15:20",
+    "description": "",
+    "link": "",
+    "assignedStudentIds": [
+      "STU-014",
+      "STU-013",
+      "STU-011",
+      "STU-012",
+      "STU-010",
+      "STU-009",
+      "STU-008",
+      "STU-007",
+      "STU-006",
+      "STU-005",
+      "STU-002",
+      "STU-001"
+    ],
+    "assignedInstructorIds": [
+      "INS-005",
+      "INS-004",
+      "INS-003",
+      "INS-002",
+      "INS-001"
+    ],
+    "createdBy": "admin",
+    "createdByName": "Administrator",
+    "createdAt": "2026-08-17T20:55:04.003Z",
+    "updatedAt": "2026-08-17T20:55:04.003Z"
+  },
+  {
     "id": "SESS-002",
     "title": "FAQ Session  with Sir Hassam",
     "type": "class",
