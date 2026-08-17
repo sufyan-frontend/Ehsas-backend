@@ -1,5 +1,40 @@
 [
   {
+    "id": "SESS-002",
+    "title": "FAQ Session  with Sir Hassam",
+    "type": "class",
+    "date": "2026-08-18",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "description": "The purpose of this session is to hear your voice what you're thinking and guide you especially clear your queries.",
+    "link": "",
+    "assignedStudentIds": [
+      "STU-014",
+      "STU-013",
+      "STU-012",
+      "STU-011",
+      "STU-010",
+      "STU-008",
+      "STU-009",
+      "STU-007",
+      "STU-006",
+      "STU-005",
+      "STU-002",
+      "STU-001"
+    ],
+    "assignedInstructorIds": [
+      "INS-005",
+      "INS-004",
+      "INS-003",
+      "INS-002",
+      "INS-001"
+    ],
+    "createdBy": "admin",
+    "createdByName": "Administrator",
+    "createdAt": "2026-08-17T20:53:58.695Z",
+    "updatedAt": "2026-08-17T20:53:58.695Z"
+  },
+  {
     "id": "SESS-001",
     "title": "sdfadfs",
     "type": "assignment",
