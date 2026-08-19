@@ -422,10 +422,21 @@
         "tasks": [
           {
             "id": "5b839537",
-            "title": "Task 1",
+            "title": "Weekly Project",
             "subtasks": [
               {
                 "id": "178c7416",
+                "title": "Real World Product Custom Packaging",
+                "description": "Create realworld product custom packaging.\n\nResearch about the charactristics of the product and then create pacakging as a design.\n\n\nKey Feature:\n\n1. DieLines\n2. Packaging\n3. Presentation\n4. Publication\n\nForAny question reach out to your instructor."
+              }
+            ]
+          },
+          {
+            "id": "081907e1",
+            "title": "Task 2",
+            "subtasks": [
+              {
+                "id": "b6ffa222",
                 "title": "Subtask 1"
               }
             ]
@@ -443,7 +454,7 @@
       }
     },
     "createdAt": "2026-07-26",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-19"
   },
   {
     "id": "ROAD-006",
