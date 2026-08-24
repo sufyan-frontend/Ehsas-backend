@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 12,
-      "active": 12,
+      "total": 13,
+      "active": 13,
       "inactive": 0
     },
     "instructors": {
@@ -188,6 +188,20 @@
       "status": "active",
       "createdAt": "2026-07-31",
       "level": "A1"
+    },
+    {
+      "id": "STU-015",
+      "username": "EL20215",
+      "pincode": "453695",
+      "name": "Fahad Mehmood",
+      "fatherName": "Father Name",
+      "phoneNumber": "03xx-xxxxxxx",
+      "fatherCnic": "xxxxx-xxxxxxx-x",
+      "profileImage": null,
+      "course": "graphic_design",
+      "level": "A2",
+      "status": "active",
+      "createdAt": "2026-08-24"
     }
   ],
   "instructors": [
