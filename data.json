@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 13,
-      "active": 13,
+      "total": 12,
+      "active": 12,
       "inactive": 0
     },
     "instructors": {
@@ -57,20 +57,6 @@
       "fatherName": "Nisar Ahmad",
       "phoneNumber": "+92 3420680337",
       "fatherCnic": "34501-2236276-7",
-      "profileImage": null,
-      "course": "graphic_design",
-      "status": "active",
-      "createdAt": "2026-07-12",
-      "level": "A1"
-    },
-    {
-      "id": "STU-006",
-      "username": "EL20206",
-      "pincode": "619880",
-      "name": "Umair Saleem",
-      "fatherName": "Muhammad Saleem Akhtar",
-      "phoneNumber": "03491059988",
-      "fatherCnic": "34101-3405186-5",
       "profileImage": null,
       "course": "graphic_design",
       "status": "active",
