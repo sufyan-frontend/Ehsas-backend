@@ -42,20 +42,6 @@
     "level": "A1"
   },
   {
-    "id": "STU-006",
-    "username": "EL20206",
-    "pincode": "619880",
-    "name": "Umair Saleem",
-    "fatherName": "Muhammad Saleem Akhtar",
-    "phoneNumber": "03491059988",
-    "fatherCnic": "34101-3405186-5",
-    "profileImage": null,
-    "course": "graphic_design",
-    "status": "active",
-    "createdAt": "2026-07-12",
-    "level": "A1"
-  },
-  {
     "id": "STU-007",
     "username": "EL20207",
     "pincode": "484108",
