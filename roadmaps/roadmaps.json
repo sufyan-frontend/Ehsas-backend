@@ -1,5 +1,92 @@
 [
   {
+    "id": "ROAD-009",
+    "instructorId": "INS-005",
+    "title": "TED Talks 1.0",
+    "duration": "1_month",
+    "assignedStudentIds": [
+      "STU-015",
+      "STU-011",
+      "STU-007"
+    ],
+    "weeks": [
+      {
+        "id": "432c3152",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "33eb4710",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "a891cdd5",
+                "title": "Never Giving up on Your Dreams",
+                "link": "https://youtu.be/Xmbs8ihPrlg?si=IfGasC8ZkJUOiqQT",
+                "linkLabel": "Watch Here",
+                "description": "Your Task"
+              },
+              {
+                "id": "076248af",
+                "title": "Subtask 2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dff1695e",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "464496df",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "c5395f5b",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b7aea418",
+        "title": "Week 3",
+        "tasks": [
+          {
+            "id": "90702cf6",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "e71d791d",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a854e008",
+        "title": "Week 4",
+        "tasks": [
+          {
+            "id": "80e44543",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "52f5aa2f",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-08-31",
+    "updatedAt": "2026-08-31"
+  },
+  {
     "id": "ROAD-008",
     "instructorId": "INS-005",
     "title": "Roadmap After Tools",
