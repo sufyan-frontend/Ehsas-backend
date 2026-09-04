@@ -987,11 +987,67 @@
         "tasks": [
           {
             "id": "169c6268",
-            "title": "Task 1",
+            "title": "LEARNING: CANVA",
             "subtasks": [
               {
                 "id": "ae795605",
-                "title": "Subtask 1"
+                "title": "Lec 1:  Introduction & Scope of Canva",
+                "link": "https://youtu.be/hoIGWU89IE8?si=1NT_D_o6TzyjnshT",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "62a7fd01",
+                "title": "Lec 2:  Understanding the Interface of Canva",
+                "link": "https://youtu.be/aAK0Afflr7Q?si=kAmYCcXWbcsvZa-O",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "dfe4ce97",
+                "title": "Lec 3: How to Use & Customize Canva Templates",
+                "link": "https://youtu.be/XjlYrVOrpx8?si=lCPVghBLAKbDgEYC",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "76ffc80e",
+                "title": "Lec 4: How to use Canva Search Bar",
+                "link": "https://youtu.be/QSxUiB4J8_w?si=tBUodNDdulm-gzVG",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "047bbdbb",
+                "title": "Lec 5: Social Media Post Design Tutorial in Canva",
+                "link": "https://youtu.be/9SZHvGlwkTY?si=Zbsjhql7r1ZfLT9J",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "8ecd76be",
+                "title": "Lec 6: Travel Company Flyer Advertisement Design Tutorial Using Canva",
+                "link": "https://youtu.be/y-WQCX8vZzw?si=d4F3ctcV3SGW_tFT",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "0fa579e0",
+                "title": "Lec 7: Motivational Post Quote Design in Canva",
+                "link": "https://youtu.be/lNKN7EZYG90?si=W8YLOJvVAX-GgC7H",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "d72c2639",
+                "title": "Lec 8: Custom Wedding Invitation Design in Canva",
+                "link": "https://youtu.be/BX9lil7E9mc?si=C4gLBYLkN11NcwB2",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "5bd52451",
+                "title": "Lec 9: E-Book Cover Design in Canva",
+                "link": "https://youtu.be/WQ2LaaPnesA?si=hYwhY30EI-ORIkhS",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "8d0e361c",
+                "title": "Lec 10: E-Commerce Ad Design for Website & Social Media",
+                "link": "https://youtu.be/aM8H4TQdL3w?si=wBjpjqyfgDDi0lFH",
+                "linkLabel": "Watch & Practice"
               }
             ]
           }
