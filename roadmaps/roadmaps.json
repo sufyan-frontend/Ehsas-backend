@@ -899,6 +899,19 @@
                 "linkLabel": "Watch"
               }
             ]
+          },
+          {
+            "id": "90237bfb",
+            "title": "Revision",
+            "subtasks": [
+              {
+                "id": "0654f201",
+                "title": "Weekend Task",
+                "link": "https://youtu.be/3RTqLQ1MaQU?si=xsE5WNe3Eq0UNv_7",
+                "linkLabel": "Watch",
+                "description": "Follow this course and update your instructor about your progress."
+              }
+            ]
           }
         ]
       },
