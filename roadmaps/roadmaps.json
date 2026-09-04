@@ -921,11 +921,24 @@
         "tasks": [
           {
             "id": "118c98c2",
-            "title": "Task 1",
+            "title": "PRACTICE: RECREATE",
             "subtasks": [
               {
                 "id": "46f66b6b",
-                "title": "Subtask 1"
+                "title": "Recreate the Designs in Below Link on Daily Basis",
+                "link": "https://docs.google.com/document/d/1YCdz9-CenyMz9ISnXPE_8x1jigh9nBz322nL6eGJ5Lc/edit?usp=sharing",
+                "linkLabel": "Do Practice"
+              }
+            ]
+          },
+          {
+            "id": "b247b8ee",
+            "title": "PRACTICE: REDESIGN TASK",
+            "subtasks": [
+              {
+                "id": "48db0ab3",
+                "title": "Redesign the Designs in Below link on Daily Basis",
+                "link": "https://drive.google.com/drive/folders/1ojD9UhG1QXjFcxLrYDRU7Ka-MpUdlWFq?usp=sharing"
               }
             ]
           }
