@@ -776,11 +776,37 @@
         "tasks": [
           {
             "id": "305c4367",
-            "title": "Task 1",
+            "title": "LEARNING",
             "subtasks": [
               {
                 "id": "148bf439",
-                "title": "Subtask 1"
+                "title": "Lec 21: All about Layers Panel",
+                "link": "https://youtu.be/QAYMvsf_-KA?si=i4okKYc6tXlXjFNU",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "49021721",
+                "title": "Lec 22: Appearance Panel",
+                "link": "https://youtu.be/CTTlyb2MlII?si=pXJ9Yr5swG_v05-a",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "caf8797c",
+                "title": "Lec 23: Blend Tool",
+                "link": "https://youtu.be/o5F9bwgthTg?si=xWbTJ5jnCYJ-TYf8",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "2e7f2353",
+                "title": "Lec 24: Perspective Grid",
+                "link": "https://youtu.be/rDAaoAyCKxM?si=hcay7nNybWcmezPv",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "ea8332b5",
+                "title": "Lec 25: 3D in Illustrator Part One",
+                "link": "https://youtu.be/X3uPU7WNDyI?si=k_k0KQ4jeJBbC2Vn",
+                "linkLabel": "Watch & Practice"
               }
             ]
           }
