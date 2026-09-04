@@ -618,7 +618,33 @@
               },
               {
                 "id": "9bf08c14",
-                "title": "Lec 2:"
+                "title": "Lec 2: Direct Selection Tool",
+                "link": "https://youtu.be/lW6dvZOOXlo?si=dRX5t13G8z7QT2s7",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "b27c1909",
+                "title": "Lec 3: Group Selection, Magic Wand, Lasso Tool",
+                "link": "https://youtu.be/DBR4Slb58v0?si=yikCo0i_FAYeQT15",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "6d5e3732",
+                "title": "Lec 4: Pen Tool",
+                "link": "https://youtu.be/xRUxEqD2D5c?si=bdtesUbuQosJ3-sI",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "b68a5871",
+                "title": "Lec 5: Pen Tool",
+                "link": "https://youtu.be/ksZ8iMexlC8?si=WjKiGlzPS2sSsBZh",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "fe602c22",
+                "title": "Lec 6: Curvature Tool",
+                "link": "https://youtu.be/ksZ8iMexlC8?si=WjKiGlzPS2sSsBZh",
+                "linkLabel": "Watch & Practice"
               }
             ]
           },
@@ -836,7 +862,7 @@
       }
     },
     "createdAt": "2026-07-26",
-    "updatedAt": "2026-08-19"
+    "updatedAt": "2026-09-04"
   },
   {
     "id": "ROAD-006",
