@@ -720,13 +720,45 @@
             "subtasks": [
               {
                 "id": "f29a049f",
-                "title": "Lec 13: Pathfinder",
-                "link": "https://youtu.be/HRDbin0AQz4?si=8fawflNHCnSuLef6",
+                "title": "Lec 13: Scale, Shear, Reshape and Free Transform Tools",
+                "link": "https://youtu.be/VZwN1-sbQN0?si=lkf83SHxDymVk78k",
                 "linkLabel": "Watch & Practice"
               },
               {
                 "id": "0acfe775",
-                "title": "Lec 14:"
+                "title": "Lec 14: Pathfinder",
+                "link": "https://youtu.be/HRDbin0AQz4?si=9QcZeKSDKzXxopPZ",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "d3037677",
+                "title": "Lec 15: Types of Masks",
+                "link": "https://youtu.be/bTr0vSHDcb4?si=8rPjMpV1WkZ8bnTR",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "411fd30a",
+                "title": "Lec 16: Color and Pattern Swatches",
+                "link": "https://youtu.be/-It7L0kq-_c?si=lqdskU19DUZ8jrPn",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "3ae368cd",
+                "title": "Lec 17: Custom Brushes",
+                "link": "https://youtu.be/xmblHeZcivA?si=uZ755FcVIiTJ3rLj",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "e9a741c1",
+                "title": "Lec 18: Mesh Tool (Part 1)",
+                "link": "https://youtu.be/9leDRvTiuN0?si=lQm81-0TQHeS9m76",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "2f287c9b",
+                "title": "Lec 19: Mesh Tool (Part 2)",
+                "link": "https://youtu.be/Pn3tNP4wywg?si=_cicexdHIQOnUyN3",
+                "linkLabel": "Watch & Practice"
               }
             ]
           }
