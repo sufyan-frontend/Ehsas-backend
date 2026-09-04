@@ -1196,11 +1196,22 @@
         "tasks": [
           {
             "id": "edb64f04",
-            "title": "Task 1",
+            "title": "LEARNING",
             "subtasks": [
               {
                 "id": "f552c926",
-                "title": "Subtask 1"
+                "title": "Watch this Whole Playlist in a Week & Make Notes",
+                "link": "https://youtube.com/playlist?list=PLoAVEfDOSZBpkfTdRTAn9ivxOrmyO2liH&si=B6OmckmpAExwi5Gw"
+              }
+            ]
+          },
+          {
+            "id": "d8701910",
+            "title": "REDESIGN CHALLENGE",
+            "subtasks": [
+              {
+                "id": "866b135a",
+                "title": "Instructor will Share Redesign Task on Daily Basis"
               }
             ]
           }
