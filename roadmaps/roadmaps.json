@@ -1175,6 +1175,18 @@
                 "linkLabel": "Practice"
               }
             ]
+          },
+          {
+            "id": "ecb89d41",
+            "title": "WEEKEND TASK",
+            "subtasks": [
+              {
+                "id": "35c664fd",
+                "title": "Revise Canva from Below Link & Do Practice",
+                "link": "https://youtu.be/rXLvN1FEkOE?si=emNe1DjwkVlOt2LI",
+                "linkLabel": "Watch"
+              }
+            ]
           }
         ]
       },
