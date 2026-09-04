@@ -1102,11 +1102,26 @@
         "tasks": [
           {
             "id": "7cf63940",
-            "title": "Task 1",
+            "title": "PRACTICE ON CANVA",
             "subtasks": [
               {
                 "id": "5829b43a",
-                "title": "Subtask 1"
+                "title": "Campaign Task",
+                "link": "https://www.behance.net/gallery/240210851/Orthotics-Social-Media-Ads",
+                "linkLabel": "Practice",
+                "description": "Work on this Orthotics niche, take ideas from the above sample and make a social media campaign related to this."
+              }
+            ]
+          },
+          {
+            "id": "582294fa",
+            "title": "RECREATE",
+            "subtasks": [
+              {
+                "id": "a89262be",
+                "title": "Recreate Designs on CANVA from Below Link",
+                "link": "https://drive.google.com/drive/folders/1h-5AAf0V_XMp0UDdpobungSFIXKUBgBZ?usp=drive_link",
+                "linkLabel": "Practice"
               }
             ]
           }
