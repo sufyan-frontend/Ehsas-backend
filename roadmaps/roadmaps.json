@@ -1133,11 +1133,46 @@
         "tasks": [
           {
             "id": "56bb52df",
-            "title": "Task 1",
+            "title": "PRACTICE: RECREATE",
             "subtasks": [
               {
                 "id": "93c63059",
-                "title": "Subtask 1"
+                "title": "Recreate the Menu Design from Below Link",
+                "link": "https://www.behance.net/gallery/232734357/Restaurant-Food-Menu-Design",
+                "linkLabel": "Practice"
+              },
+              {
+                "id": "05c09b6f",
+                "title": "Recreate Tri Fold Brochure Design from Below Link",
+                "link": "https://www.behance.net/gallery/239784999/Trifold-Brochure-Design-for-Company-Profile-Services"
+              },
+              {
+                "id": "88165a10",
+                "title": "Recreate Flyer Design from Below Link",
+                "link": "https://www.behance.net/gallery/231337845/Professional-Medical-Flyer-Designs"
+              },
+              {
+                "id": "73bfc5b2",
+                "title": "Recreate T-Shirt Design from Below Link",
+                "link": "https://www.behance.net/gallery/241417017/T-shirt-design"
+              }
+            ]
+          },
+          {
+            "id": "e6d34399",
+            "title": "LEARNING: LABEL DESIGN",
+            "subtasks": [
+              {
+                "id": "2efbec5f",
+                "title": "Lec 1: Label Design Introduction, Types, Bleed & Safe Zone",
+                "link": "https://youtu.be/WMipWC4QDbU?si=86F1YRwx8kgtiG7X",
+                "linkLabel": "Practice"
+              },
+              {
+                "id": "98088166",
+                "title": "Lec 2: Label Layout Design Complete Process & Mockup Presentation",
+                "link": "https://youtu.be/HdgXVZlgbDA?si=o0Gq_rRdYcmLKlAp",
+                "linkLabel": "Practice"
               }
             ]
           }
