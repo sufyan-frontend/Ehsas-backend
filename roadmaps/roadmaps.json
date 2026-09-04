@@ -1223,22 +1223,13 @@
         "tasks": [
           {
             "id": "5b839537",
-            "title": "Weekly Project",
+            "title": "LEARNING: URDU DESIGNS",
             "subtasks": [
               {
                 "id": "178c7416",
-                "title": "Real World Product Custom Packaging",
-                "description": "Create realworld product custom packaging.\n\nResearch about the charactristics of the product and then create pacakging as a design.\n\n\nKey Feature:\n\n1. DieLines\n2. Packaging\n3. Presentation\n4. Publication\n\nForAny question reach out to your instructor."
-              }
-            ]
-          },
-          {
-            "id": "081907e1",
-            "title": "Task 2",
-            "subtasks": [
-              {
-                "id": "b6ffa222",
-                "title": "Subtask 1"
+                "title": "Recreate Urdu Design from Below Link on Daily Basis",
+                "link": "https://drive.google.com/drive/folders/1do-tSb4FFj9G8CR16lhhvLHM7nStO6P_?usp=sharing",
+                "linkLabel": "Practice"
               }
             ]
           }
