@@ -883,11 +883,12 @@
         "tasks": [
           {
             "id": "97c025a4",
-            "title": "Task 1",
+            "title": "PRACTICE",
             "subtasks": [
               {
                 "id": "0bd7c903",
-                "title": "Subtask 1"
+                "title": "Practice Daily Minimum 2 Projects from the Below Link",
+                "link": "https://drive.google.com/drive/folders/1obPXuac-eZoGG-aTlrMWl0nXBAOOB4kO?usp=sharing"
               }
             ]
           }
