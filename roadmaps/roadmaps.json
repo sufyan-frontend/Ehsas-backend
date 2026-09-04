@@ -830,11 +830,48 @@
         "tasks": [
           {
             "id": "1d7796ec",
-            "title": "Task 1",
+            "title": "LEARNING",
             "subtasks": [
               {
                 "id": "71a95c4a",
-                "title": "Subtask 1"
+                "title": "Lec 28: Envelope Distort",
+                "link": "https://youtu.be/fuV9Y4Ib2SM?si=kGTw-kZGqBObjnvN",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "682e1a7f",
+                "title": "Lec 29: Transform Panel",
+                "link": "https://youtu.be/bM5MoJ7CTOM?si=mwSNTZFW46eEtDtR",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "c7c2f42c",
+                "title": "Lec 30: Artboard Tool and Settings",
+                "link": "https://youtu.be/O0euZbXZw9A?si=ryavivJAoJUHdDw6",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "8578b5e4",
+                "title": "Lec 31: Path Menu",
+                "link": "https://youtu.be/TJgG5ugOEbY?si=8aKrWmmzB1QmzbRD",
+                "linkLabel": "Watch & Practice"
+              },
+              {
+                "id": "5b0c5269",
+                "title": "Lec 32: Actions",
+                "link": "https://youtu.be/adWrSs7O1yw?si=xzltFN81nbE_a1oz",
+                "linkLabel": "Watch & Practice"
+              }
+            ]
+          },
+          {
+            "id": "84cdc74b",
+            "title": "ASSESSMENT",
+            "subtasks": [
+              {
+                "id": "131dacd5",
+                "title": "Subtask 1",
+                "description": "ASSESSMENT DAY WILL BE HELD IMMEDIATELY AFTER COMPLETING THIS PLAYLIST"
               }
             ]
           }
