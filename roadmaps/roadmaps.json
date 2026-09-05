@@ -1,5 +1,81 @@
 [
   {
+    "id": "ROAD-010",
+    "instructorId": "INS-005",
+    "title": "Content Creation Ideas",
+    "duration": "1_month",
+    "assignedStudentIds": [],
+    "weeks": [
+      {
+        "id": "cea2b8a5",
+        "title": "Week 1",
+        "tasks": [
+          {
+            "id": "56a40f8c",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "69586b5f",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ac733a18",
+        "title": "Week 2",
+        "tasks": [
+          {
+            "id": "07c57d6e",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "8fb80d55",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a88827c3",
+        "title": "Week 3",
+        "tasks": [
+          {
+            "id": "ccf6a81e",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "7a4073d0",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6cf318f1",
+        "title": "Week 4",
+        "tasks": [
+          {
+            "id": "0a810213",
+            "title": "Task 1",
+            "subtasks": [
+              {
+                "id": "003da7b7",
+                "title": "Subtask 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progress": {},
+    "createdAt": "2026-09-05",
+    "updatedAt": "2026-09-05"
+  },
+  {
     "id": "ROAD-002",
     "instructorId": "INS-004",
     "title": "UI/UX Design – Level A2",
