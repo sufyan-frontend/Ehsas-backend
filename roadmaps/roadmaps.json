@@ -4,7 +4,9 @@
     "instructorId": "INS-005",
     "title": "Content Creation Ideas",
     "duration": "1_month",
-    "assignedStudentIds": [],
+    "assignedStudentIds": [
+      "STU-010"
+    ],
     "weeks": [
       {
         "id": "cea2b8a5",
