@@ -4,12 +4,13 @@
     "studentId": "STU-007",
     "date": "2026-09-07",
     "checkIn": "2026-09-07T09:43:23.087Z",
-    "checkOut": null,
+    "checkOut": "2026-09-07T12:33:46.024Z",
     "breaks": [],
     "breakMinutes": 0,
-    "durationMinutes": null,
-    "status": "running",
-    "onBreak": false
+    "durationMinutes": 170,
+    "status": "completed",
+    "onBreak": false,
+    "autoClosed": false
   },
   {
     "id": "ATT-0028",
