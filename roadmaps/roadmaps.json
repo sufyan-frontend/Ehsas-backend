@@ -1510,11 +1510,14 @@
           },
           {
             "id": "67e64450",
-            "title": "PRACTICE",
+            "title": "PROJECTS",
             "subtasks": [
               {
                 "id": "087a4593",
-                "title": "Subtask 1"
+                "title": "We want to do marketing for this brand",
+                "link": "https://www.behance.net/gallery/254508071/Oggo",
+                "linkLabel": "Brand Information",
+                "description": "Hello Designer, \n\nI have attached the link, which is about the brand product, logo, and guidelines include purpose. To understand my business, I want to do marketing on social media and also with print material.\n\nWhat I need:\n\n4 Social Media Posts \n2 Canva Templates (Post size)\nFB Cover Image\n2 Flyers with a bold and short attractive message\n1 roll banner\n\n\nNote: I want to target my audience to build trust and get leads. Make my content bold so we can attract our audience."
               }
             ]
           }
