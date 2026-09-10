@@ -1,19 +1,5 @@
 [
   {
-    "id": "STU-001",
-    "username": "EL20201",
-    "pincode": "123456",
-    "name": "Muhammad Farhan",
-    "fatherName": "Iftikhar",
-    "phoneNumber": "0325987987897",
-    "fatherCnic": "5498798789987987",
-    "profileImage": null,
-    "course": "website_development",
-    "status": "active",
-    "createdAt": "2026-07-12",
-    "level": "A1"
-  },
-  {
     "id": "STU-002",
     "username": "EL20202",
     "pincode": "990716",
