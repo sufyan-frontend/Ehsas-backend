@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 11,
-      "active": 11,
+      "total": 12,
+      "active": 12,
       "inactive": 0
     },
     "instructors": {
@@ -174,6 +174,20 @@
       "level": "A2",
       "status": "active",
       "createdAt": "2026-08-24"
+    },
+    {
+      "id": "STU-016",
+      "username": "EL20216",
+      "pincode": "228950",
+      "name": "Laiba Akram",
+      "fatherName": "Muhammad Akram",
+      "phoneNumber": "+92 305 7776731",
+      "fatherCnic": "34502-0909997-8",
+      "profileImage": null,
+      "course": "graphic_design",
+      "level": "A1",
+      "status": "active",
+      "createdAt": "2026-09-10"
     }
   ],
   "instructors": [
