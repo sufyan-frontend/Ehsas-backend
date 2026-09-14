@@ -1350,7 +1350,8 @@
     "assignedStudentIds": [
       "STU-010",
       "STU-011",
-      "STU-015"
+      "STU-015",
+      "STU-005"
     ],
     "weeks": [
       {
@@ -1745,7 +1746,7 @@
       }
     },
     "createdAt": "2026-07-16",
-    "updatedAt": "2026-09-08"
+    "updatedAt": "2026-09-14"
   },
   {
     "id": "ROAD-005",
