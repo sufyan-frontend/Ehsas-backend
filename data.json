@@ -255,7 +255,9 @@
       "courses": [
         {
           "course": "ui_ux_design",
-          "levels": []
+          "levels": [
+            "A2"
+          ]
         }
       ]
     },
