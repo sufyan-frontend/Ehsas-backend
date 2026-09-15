@@ -1,8 +1,24 @@
 [
   {
-    "id": "MEET-001",
-    "title": "UI/UX Designers' Daily Meeting",
+    "id": "MEET-002",
+    "title": "Graphic Design with AI - Level A2",
     "link": "https://meet.google.com/ewt-kpgq-fox",
+    "description": "",
+    "scheduledAt": null,
+    "instructorIds": [
+      "INS-005",
+      "INS-004"
+    ],
+    "studentIds": [
+      "STU-015",
+      "STU-007",
+      "STU-005",
+      "STU-011"
+    ],
+    "createdBy": "admin",
+    "createdAt": "2026-09-15"
+  },
+  {
     "description": "",
     "scheduledAt": null,
     "instructorIds": [
@@ -13,6 +29,9 @@
       "STU-007"
     ],
     "createdBy": "admin",
+    "id": "MEET-001",
+    "title": "UI/UX Designers' Daily Meeting",
+    "link": "https://meet.google.com/ewt-kpgq-fox",
     "createdAt": "2026-07-13"
   }
 ]
