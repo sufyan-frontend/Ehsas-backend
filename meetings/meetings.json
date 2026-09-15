@@ -1,5 +1,25 @@
 [
   {
+    "id": "MEET-003",
+    "title": "Graphic Design with AI -  Level A1 -  Daily Meeting",
+    "link": "http://meet.google.com/qhs-uapj-twn",
+    "description": "",
+    "scheduledAt": null,
+    "instructorIds": [
+      "INS-002",
+      "INS-005"
+    ],
+    "studentIds": [
+      "STU-016",
+      "STU-014",
+      "STU-013",
+      "STU-009",
+      "STU-002"
+    ],
+    "createdBy": "admin",
+    "createdAt": "2026-09-15"
+  },
+  {
     "description": "",
     "scheduledAt": null,
     "instructorIds": [
