@@ -1,8 +1,5 @@
 [
   {
-    "id": "MEET-002",
-    "title": "Graphic Design with AI - Level A2",
-    "link": "https://meet.google.com/ewt-kpgq-fox",
     "description": "",
     "scheduledAt": null,
     "instructorIds": [
@@ -16,6 +13,9 @@
       "STU-011"
     ],
     "createdBy": "admin",
+    "id": "MEET-002",
+    "title": "Graphic Design with AI - Level A2 - Daily Meeting",
+    "link": "https://meet.google.com/ewt-kpgq-fox",
     "createdAt": "2026-09-15"
   },
   {
