@@ -1,5 +1,17 @@
 [
   {
+    "id": "ATT-0037",
+    "studentId": "STU-011",
+    "date": "2026-09-15",
+    "checkIn": "2026-09-15T05:10:42.010Z",
+    "checkOut": null,
+    "breaks": [],
+    "breakMinutes": 0,
+    "durationMinutes": null,
+    "status": "running",
+    "onBreak": false
+  },
+  {
     "id": "ATT-0036",
     "studentId": "STU-005",
     "date": "2026-09-14",
@@ -17,13 +29,13 @@
     "studentId": "STU-007",
     "date": "2026-09-14",
     "checkIn": "2026-09-14T09:56:23.725Z",
-    "checkOut": null,
+    "checkOut": "2026-09-14T23:59:59.999Z",
     "breaks": [],
     "breakMinutes": 0,
-    "durationMinutes": null,
-    "status": "running",
+    "durationMinutes": 843,
+    "status": "completed",
     "onBreak": false,
-    "autoClosed": false
+    "autoClosed": true
   },
   {
     "id": "ATT-0034",
