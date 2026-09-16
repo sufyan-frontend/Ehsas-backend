@@ -5,11 +5,17 @@
     "date": "2026-09-16",
     "checkIn": "2026-09-16T10:12:16.699Z",
     "checkOut": null,
-    "breaks": [],
+    "breaks": [
+      {
+        "start": "2026-09-16T10:43:02.891Z",
+        "end": null
+      }
+    ],
     "breakMinutes": 0,
     "durationMinutes": null,
     "status": "running",
-    "onBreak": false
+    "onBreak": true,
+    "autoClosed": false
   },
   {
     "id": "ATT-0039",
