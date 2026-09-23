@@ -43,7 +43,7 @@
       "fatherName": "Nisar Ahmad",
       "phoneNumber": "+92 3420680337",
       "fatherCnic": "34501-2236276-7",
-      "profileImage": null,
+      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-005.jpg?v=1790162316106",
       "course": "graphic_design",
       "status": "active",
       "createdAt": "2026-07-12",
