@@ -108,5 +108,10 @@
     "studentId": "STU-005",
     "instructorId": "INS-004",
     "assignedAt": "2026-09-14"
+  },
+  {
+    "studentId": "STU-005",
+    "instructorId": "INS-005",
+    "assignedAt": "2026-09-23"
   }
 ]
