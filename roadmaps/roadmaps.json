@@ -690,7 +690,6 @@
     "duration": "3_months",
     "assignedStudentIds": [
       "STU-009",
-      "STU-005",
       "STU-002",
       "STU-014",
       "STU-013"
@@ -1340,7 +1339,7 @@
       }
     },
     "createdAt": "2026-07-26",
-    "updatedAt": "2026-09-04"
+    "updatedAt": "2026-09-26"
   },
   {
     "id": "ROAD-006",
