@@ -1332,7 +1332,9 @@
     ],
     "progress": {
       "STU-009": {},
-      "STU-013": {},
+      "STU-013": {
+        "4c4f2a7f": "submitted"
+      },
       "STU-014": {
         "4c4f2a7f": "completed",
         "9bf08c14": "completed",
