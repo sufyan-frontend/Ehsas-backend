@@ -12,13 +12,13 @@
       },
       {
         "start": "2026-09-29T05:29:48.673Z",
-        "end": null
+        "end": "2026-09-29T05:47:13.038Z"
       }
     ],
-    "breakMinutes": 4,
+    "breakMinutes": 21,
     "durationMinutes": null,
     "status": "running",
-    "onBreak": true,
+    "onBreak": false,
     "autoClosed": false
   },
   {
