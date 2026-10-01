@@ -216,11 +216,13 @@
         "tasks": [
           {
             "id": "dfd420d0",
-            "title": "Task 1",
+            "title": "PORTFOLIO",
             "subtasks": [
               {
                 "id": "2570987f",
-                "title": "Subtask 1"
+                "title": "UX Design Portfolio Course",
+                "link": "https://youtube.com/playlist?list=PLKId0A0XCIbVuTS2O-XEbRMzRPgIxkd1X&si=1H5W7bIoNXl7NlMF",
+                "linkLabel": "Watch"
               }
             ]
           }
@@ -378,7 +380,7 @@
       }
     },
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-07-20"
+    "updatedAt": "2026-10-01"
   },
   {
     "id": "ROAD-009",
