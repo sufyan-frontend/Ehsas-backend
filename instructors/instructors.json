@@ -34,23 +34,6 @@
     ]
   },
   {
-    "id": "INS-003",
-    "username": "shazaib003",
-    "pincode": "123456",
-    "name": "Shazaib Ali",
-    "phoneNumber": "0349 6713926",
-    "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/instructors/images/INS-003.jpg?v=1783942010138",
-    "role": "graphic_design",
-    "status": "active",
-    "createdAt": "2026-07-12",
-    "courses": [
-      {
-        "course": "graphic_design",
-        "levels": []
-      }
-    ]
-  },
-  {
     "id": "INS-004",
     "username": "hassam123456",
     "pincode": "123456",
