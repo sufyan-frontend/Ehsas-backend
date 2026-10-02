@@ -376,11 +376,12 @@
     "progress": {
       "STU-008": {
         "6f50e5fb": "completed",
-        "af9e9b8b": "completed"
+        "af9e9b8b": "completed",
+        "bce061b2": "submitted"
       }
     },
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-10-01"
+    "updatedAt": "2026-10-02"
   },
   {
     "id": "ROAD-009",
