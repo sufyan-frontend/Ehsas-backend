@@ -1343,7 +1343,9 @@
       }
     ],
     "progress": {
-      "STU-009": {},
+      "STU-009": {
+        "4c4f2a7f": "completed"
+      },
       "STU-013": {
         "49021721": "completed",
         "4c4f2a7f": "completed",
