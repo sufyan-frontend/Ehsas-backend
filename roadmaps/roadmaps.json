@@ -2604,7 +2604,8 @@
             "subtasks": [
               {
                 "id": "425c75f2",
-                "title": "Subtask 1"
+                "title": "Give the presentation on Saturday",
+                "description": "TOPIC: Before joining EhsasLab, what were the 5 biggest myths you believed about becoming a UI/UX designer?\n\nFor example:\n\nI thought a 2-month course would be enough to start earning.\n\nI believed getting a certificate would help me get clients easily.\n\nI thought learning Figma was enough to become a professional designer.\n\n\nNow that you’ve experienced the training, what do you think about these myths? What has changed in your mindset?"
               }
             ]
           }
