@@ -2560,11 +2560,28 @@
         "tasks": [
           {
             "id": "13cfb6e5",
-            "title": "Task 1",
+            "title": "LEARNING",
             "subtasks": [
               {
                 "id": "fe68d9a2",
-                "title": "Subtask 1"
+                "title": "MASTER VISUAL HIERARCHY - Mini Course",
+                "link": "https://youtu.be/LfkDiDyn6nU?si=MuQPQxpCcie2u59I",
+                "linkLabel": "Watch Here"
+              },
+              {
+                "id": "bcca7aaf",
+                "title": "Assignment 1",
+                "description": "Before/After Redesign of a Real Screen\n\nPick one cluttered screen from a real app (local apps in Pakistan like foodpanda, Daraz, or Easypaisa are great because few designers touch them). Write a short problem statement, define 2-3 success metrics (as in the course), then redesign. Present it as a case study with annotated decisions: “I increased the price size to X because...”"
+              },
+              {
+                "id": "deffba82",
+                "title": "Assignment 2",
+                "description": "Build a Mini Design System\n\nCreate type scale, color tokens, spacing scale (4/8pt), and 5 components (button, card, input, nav bar, list item) in Figma with variants and auto layout. Then rebuild your Assignment 2 screen using only those components."
+              },
+              {
+                "id": "42cb005a",
+                "title": "Assignment 3",
+                "description": "Multi-State & Edge Case Design\n\nMost juniors only design the happy path. Design the same screen (Which you designed in assignment 1) with: loading, empty, error, long text, and offline states. Hierarchy often breaks in these, and this is where you stand out."
               }
             ]
           }
@@ -2659,6 +2676,6 @@
       }
     },
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   }
 ]
