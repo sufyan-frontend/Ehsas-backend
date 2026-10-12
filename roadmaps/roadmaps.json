@@ -2584,6 +2584,19 @@
                 "description": "Multi-State & Edge Case Design\n\nMost juniors only design the happy path. Design the same screen (Which you designed in assignment 1) with: loading, empty, error, long text, and offline states. Hierarchy often breaks in these, and this is where you stand out."
               }
             ]
+          },
+          {
+            "id": "4fb6ebbf",
+            "title": "PRACTICE",
+            "subtasks": [
+              {
+                "id": "04811ab4",
+                "title": "Redesign Website",
+                "link": "https://www.pakrail.gov.pk/",
+                "linkLabel": "Website",
+                "description": "Build: Redesign one bad real interface (Railway Website), writing the reasoning for every change.\n\nOutput: A before/after case with written reasoning"
+              }
+            ]
           }
         ]
       },
