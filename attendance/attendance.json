@@ -1,15 +1,28 @@
 [
   {
-    "id": "ATT-0103",
-    "studentId": "STU-009",
-    "date": "2026-10-25",
-    "checkIn": "2026-10-25T16:11:49.510Z",
+    "id": "ATT-0104",
+    "studentId": "STU-014",
+    "date": "2026-10-26",
+    "checkIn": "2026-10-26T06:40:18.324Z",
     "checkOut": null,
     "breaks": [],
     "breakMinutes": 0,
     "durationMinutes": null,
     "status": "running",
     "onBreak": false
+  },
+  {
+    "id": "ATT-0103",
+    "studentId": "STU-009",
+    "date": "2026-10-25",
+    "checkIn": "2026-10-25T16:11:49.510Z",
+    "checkOut": "2026-10-25T23:59:59.999Z",
+    "breaks": [],
+    "breakMinutes": 0,
+    "durationMinutes": 468,
+    "status": "completed",
+    "onBreak": false,
+    "autoClosed": true
   },
   {
     "id": "ATT-0102",
