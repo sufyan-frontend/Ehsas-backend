@@ -2659,11 +2659,55 @@
         "tasks": [
           {
             "id": "41420180",
-            "title": "Task 1",
+            "title": "Design Before & After Mini Course",
             "subtasks": [
               {
                 "id": "ef19245a",
-                "title": "Subtask 1"
+                "title": "Bad vs Great UX/UI Design, It’s Not Even Close",
+                "link": "https://youtu.be/U7jTCgIWS4w?si=w_CM0M0s5nkryCVe",
+                "linkLabel": "Watch here"
+              },
+              {
+                "id": "f53e447f",
+                "title": "This UI/UX Redesign Will Teach You More Than 100 Tutorials Combined",
+                "link": "https://youtu.be/GGg61sdEjeI?si=8WEazVtKpl78djbu",
+                "linkLabel": "Watch here"
+              },
+              {
+                "id": "8d270775",
+                "title": "Top 5 UX/UI Design Tips and Tricks Everyone Needs to Know About",
+                "link": "https://youtu.be/gG4urkinFQI?si=8hNMFK6euhRetBW_",
+                "linkLabel": "Watch here"
+              },
+              {
+                "id": "d12486d0",
+                "title": "This Video Will Take You From Junior to Senior UX/UI Designer",
+                "link": "https://youtu.be/YlN28RNChl0?si=4U6ofLjfNIziUFz3",
+                "linkLabel": "Watch here"
+              },
+              {
+                "id": "abceb358",
+                "title": "Ecommerce Page Redesign: UX/UI Tips to 3.5x Conversion",
+                "link": "https://youtu.be/oYskl2ZBoBc?si=drS3eYiEVLjwS_bX",
+                "linkLabel": "Watch here"
+              },
+              {
+                "id": "df6a1fcb",
+                "title": "Every UI/UX Concept Explained in Under 10 Minutes",
+                "link": "https://youtu.be/EcbgbKtOELY?si=Hag2wXsxkpJmMmKS",
+                "linkLabel": "Watch here"
+              },
+              {
+                "id": "767a3e40",
+                "title": "Top 3 UX/UI Redesigns That Make You Design Like a Pro",
+                "link": "https://youtu.be/zr37ibqXl1U?si=KIYHYGcQngiUDVXQ",
+                "linkLabel": "Watch here"
+              },
+              {
+                "id": "c66ec83c",
+                "title": "Everything you need to know about Mobile App UI’s in 8 minutes",
+                "link": "https://youtu.be/Gfsd8NNuD9g?si=j8VcEBmO47XGeTdC",
+                "linkLabel": "Watch here"
               }
             ]
           }
@@ -2743,6 +2787,6 @@
       }
     },
     "createdAt": "2026-07-12",
-    "updatedAt": "2026-10-19"
+    "updatedAt": "2026-11-06"
   }
 ]
