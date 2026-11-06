@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 14,
-      "active": 14,
+      "total": 13,
+      "active": 13,
       "inactive": 0
     },
     "instructors": {
@@ -34,20 +34,6 @@
       "status": "active",
       "createdAt": "2026-07-12",
       "level": "A1"
-    },
-    {
-      "id": "STU-005",
-      "username": "EL20205",
-      "pincode": "159758",
-      "name": "Abdul Samad Ahad",
-      "fatherName": "Nisar Ahmad",
-      "phoneNumber": "+92 3420680337",
-      "fatherCnic": "34501-2236276-7",
-      "profileImage": "https://raw.githubusercontent.com/sufyan-frontend/Ehsas-backend/main/students/images/STU-005.jpg?v=1790162316106",
-      "course": "graphic_design",
-      "status": "active",
-      "createdAt": "2026-07-12",
-      "level": "A2"
     },
     {
       "id": "STU-007",
