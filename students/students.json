@@ -194,5 +194,19 @@
     "level": "A1",
     "status": "active",
     "createdAt": "2026-11-10"
+  },
+  {
+    "id": "STU-020",
+    "username": "EL20220",
+    "pincode": "563150",
+    "name": "Muhammad Abdullah Siddique",
+    "fatherName": "Muhammad Siddique",
+    "phoneNumber": "03483779205",
+    "fatherCnic": "34501-1740344-1",
+    "profileImage": null,
+    "course": "graphic_design",
+    "level": "A1",
+    "status": "active",
+    "createdAt": "2026-11-10"
   }
 ]
