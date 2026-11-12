@@ -9,7 +9,8 @@
     "breakMinutes": 0,
     "durationMinutes": null,
     "status": "running",
-    "onBreak": false
+    "onBreak": false,
+    "autoClosed": false
   },
   {
     "id": "ATT-0139",
@@ -64,13 +65,13 @@
     "breaks": [
       {
         "start": "2026-11-12T06:34:20.927Z",
-        "end": null
+        "end": "2026-11-12T09:31:42.060Z"
       }
     ],
-    "breakMinutes": 125,
+    "breakMinutes": 177,
     "durationMinutes": null,
     "status": "running",
-    "onBreak": true,
+    "onBreak": false,
     "autoClosed": false
   },
   {
