@@ -30,7 +30,7 @@
     "studentId": "STU-019",
     "date": "2026-11-12",
     "checkIn": "2026-11-12T07:30:37.642Z",
-    "checkOut": null,
+    "checkOut": "2026-11-12T11:33:35.278Z",
     "breaks": [
       {
         "start": "2026-11-12T07:30:58.424Z",
@@ -38,8 +38,8 @@
       }
     ],
     "breakMinutes": 0,
-    "durationMinutes": null,
-    "status": "running",
+    "durationMinutes": 242,
+    "status": "completed",
     "onBreak": false,
     "autoClosed": false
   },
