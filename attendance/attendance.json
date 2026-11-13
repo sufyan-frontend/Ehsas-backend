@@ -9,7 +9,8 @@
     "breakMinutes": 0,
     "durationMinutes": null,
     "status": "running",
-    "onBreak": false
+    "onBreak": false,
+    "autoClosed": false
   },
   {
     "id": "ATT-0144",
@@ -30,11 +31,16 @@
     "date": "2026-11-13",
     "checkIn": "2026-11-13T06:48:52.251Z",
     "checkOut": null,
-    "breaks": [],
+    "breaks": [
+      {
+        "start": "2026-11-13T08:18:49.890Z",
+        "end": null
+      }
+    ],
     "breakMinutes": 0,
     "durationMinutes": null,
     "status": "running",
-    "onBreak": false,
+    "onBreak": true,
     "autoClosed": false
   },
   {
