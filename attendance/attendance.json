@@ -47,13 +47,13 @@
     "breaks": [
       {
         "start": "2026-11-17T11:53:05.200Z",
-        "end": null
+        "end": "2026-11-17T11:55:19.974Z"
       }
     ],
-    "breakMinutes": 0,
+    "breakMinutes": 2,
     "durationMinutes": null,
     "status": "running",
-    "onBreak": true,
+    "onBreak": false,
     "autoClosed": false
   },
   {
