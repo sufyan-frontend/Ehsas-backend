@@ -7,8 +7,8 @@
   ],
   "stats": {
     "students": {
-      "total": 15,
-      "active": 15,
+      "total": 16,
+      "active": 16,
       "inactive": 0
     },
     "instructors": {
@@ -230,6 +230,20 @@
       "level": "A1",
       "status": "active",
       "createdAt": "2026-11-10"
+    },
+    {
+      "id": "STU-021",
+      "username": "EL20221",
+      "pincode": "397166",
+      "name": "Asad Ali",
+      "fatherName": "Munawar Hussain",
+      "phoneNumber": "03482767568",
+      "fatherCnic": "34501-4935769-9",
+      "profileImage": null,
+      "course": "website_development",
+      "level": "A1",
+      "status": "active",
+      "createdAt": "2026-11-18"
     }
   ],
   "instructors": [
