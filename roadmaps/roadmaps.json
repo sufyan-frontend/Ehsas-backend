@@ -1679,15 +1679,14 @@
       },
       "STU-020": {
         "ae795605": "completed",
-        "62a7fd01": "completed",
-        "4c4f2a7f": "submitted"
+        "62a7fd01": "completed"
       },
       "STU-019": {
         "4c4f2a7f": "submitted"
       }
     },
     "createdAt": "2026-07-26",
-    "updatedAt": "2026-11-23"
+    "updatedAt": "2026-11-24"
   },
   {
     "id": "ROAD-006",
